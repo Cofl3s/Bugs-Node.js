@@ -636,3 +636,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [14Apr2025 21:44:02.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Superag_Games to cofl3s
 [14Apr2025 21:44:13.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games drowned
 [14Apr2025 21:44:29.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Superag_Games to cofl3s
+[14Apr2025 21:46:52.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was slain by Fighting Fish
+[14Apr2025 21:47:12.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported cofl3s to Superag_Games
+[14Apr2025 21:48:13.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was doomed to fall
+[14Apr2025 21:48:22.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Superag_Games to cofl3s
+[14Apr2025 21:49:08.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was doomed to fall by Marine with Sword
+[14Apr2025 21:49:16.589] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[14Apr2025 21:49:16.592] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[14Apr2025 21:49:16.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[14Apr2025 21:49:16.642] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[14Apr2025 21:49:22.351] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@55a16422
+[14Apr2025 21:49:22.359] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.194.228.212:39231] logged in with entity id 7671 at (65.05163423220316, 75.82241702281496, -213.0650327205658)
+[14Apr2025 21:49:22.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[14Apr2025 21:49:26.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made SuperAG a server operator
+[14Apr2025 21:49:28.293] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[14Apr2025 21:49:28.340] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[14Apr2025 21:49:28.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[14Apr2025 21:49:34.147] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@50171c1e
+[14Apr2025 21:49:34.154] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.194.228.212:59853] logged in with entity id 7714 at (63.27959874488707, 74.66287215328657, -214.97185022835933)
+[14Apr2025 21:49:34.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[14Apr2025 21:49:34.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Superag_Games a server operator
+[14Apr2025 21:49:39.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[14Apr2025 21:49:39.940] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[14Apr2025 21:49:39.992] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[14Apr2025 21:49:39.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[14Apr2025 21:49:44.893] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4db03bd7
+[14Apr2025 21:49:44.898] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.194.228.212:51063] logged in with entity id 7756 at (62.98650839698763, 80.89957185692327, -214.03173601487487)
+[14Apr2025 21:49:44.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[14Apr2025 21:49:47.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[14Apr2025 21:49:50.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[14Apr2025 21:50:46.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> no puedo
+[14Apr2025 21:51:06.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> 859 65.5 -1614
+[14Apr2025 21:51:27.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Superag_Games to 859.5, 70.0, -1649.5]
+[14Apr2025 21:51:44.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[14Apr2025 21:51:55.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]

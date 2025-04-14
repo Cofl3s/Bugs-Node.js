@@ -1129,6 +1129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-04-14 21:45:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/pike_diamond": {
     "criteria": {
       "has_diamond": "2025-04-14 20:56:14 +0000"
