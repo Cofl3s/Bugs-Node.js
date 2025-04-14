@@ -1650,3 +1650,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [14Apr2025 19:48:01.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] opa
 [14Apr2025 19:48:05.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] diamantes
 [14Apr2025 20:01:26.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Enchanter]
+[14Apr2025 20:07:59.756] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4cd68e22
+[14Apr2025 20:07:59.762] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:35905] logged in with entity id 196327 at (-2148.3527205589653, 70.0, -1395.4063752503869)
+[14Apr2025 20:07:59.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[14Apr2025 20:08:08.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Superag_Games> Hola papi
+[14Apr2025 20:08:13.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Superag_Games> y sara?
+[14Apr2025 20:08:19.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> ahora viene
+[14Apr2025 20:08:27.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Superag_Games a server operator
+[14Apr2025 20:08:31.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Superag_Games to cofl3s]
+[14Apr2025 20:08:32.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> dc?
+[14Apr2025 20:08:41.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Made Superag_Games no longer a server operator]
+[14Apr2025 20:08:48.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Superag_Games> deje que ando en llama
+[14Apr2025 20:09:09.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> a
+[14Apr2025 20:11:28.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> tome
