@@ -1644,3 +1644,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [14Apr2025 19:33:06.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu has made the advancement [Take Aim]
 [14Apr2025 19:33:08.916] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu lost connection: Disconnected
 [14Apr2025 19:33:08.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu left the game
+[14Apr2025 19:42:05.144] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/177607, l='ServerLevel[world]', x=-826.51, y=64.00, z=-1300.68]
