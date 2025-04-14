@@ -1649,3 +1649,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [14Apr2025 19:45:59.839] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/181594, l='ServerLevel[world]', x=-903.74, y=61.87, z=-1324.35]
 [14Apr2025 19:48:01.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] opa
 [14Apr2025 19:48:05.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] diamantes
+[14Apr2025 20:01:26.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Enchanter]
