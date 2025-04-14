@@ -1619,3 +1619,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [14Apr2025 18:36:55.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu has made the advancement [Stone Age]
 [14Apr2025 18:39:18.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu has made the advancement [Monster Hunter]
 [14Apr2025 18:40:01.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu has made the advancement [Sweet Dreams]
+[14Apr2025 18:47:42.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[14Apr2025 18:50:09.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Superag_Games> xaero-waypoint:a:A:-1799:69:-1528:12:false:0:Internal-overworld-waypoints
