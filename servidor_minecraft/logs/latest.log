@@ -1586,3 +1586,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [14Apr2025 18:21:03.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Getting an Upgrade]
 [14Apr2025 18:21:41.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Suit Up]
 [14Apr2025 18:22:14.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Getting an Upgrade]
+[14Apr2025 18:23:50.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was killed by Marine Sniper
+[14Apr2025 18:24:39.202] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Disconnected
+[14Apr2025 18:24:39.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[14Apr2025 18:26:46.904] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/78924, l='ServerLevel[world]', x=-288.40, y=50.59, z=-694.68]
+[14Apr2025 18:26:46.904] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gravel'/78925, l='ServerLevel[world]', x=-289.34, y=49.42, z=-698.65]
+[14Apr2025 18:26:46.904] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/78926, l='ServerLevel[world]', x=-288.71, y=49.59, z=-695.43]
+[14Apr2025 18:26:46.905] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/78927, l='ServerLevel[world]', x=-289.59, y=50.75, z=-698.74]
+[14Apr2025 18:26:46.905] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/78928, l='ServerLevel[world]', x=-291.47, y=47.44, z=-693.65]
+[14Apr2025 18:26:46.905] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gravel'/78930, l='ServerLevel[world]', x=-292.28, y=50.28, z=-699.34]
+[14Apr2025 18:29:04.846] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Disconnected
+[14Apr2025 18:29:04.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
+[14Apr2025 18:30:40.744] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@f5e8a5
+[14Apr2025 18:30:40.748] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu[/127.70.184.46:49761] logged in with entity id 91490 at (111.5, 69.0, -216.5)
+[14Apr2025 18:30:40.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu joined the game
