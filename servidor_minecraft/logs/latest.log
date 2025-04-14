@@ -1600,3 +1600,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [14Apr2025 18:30:40.744] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@f5e8a5
 [14Apr2025 18:30:40.748] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu[/127.70.184.46:49761] logged in with entity id 91490 at (111.5, 69.0, -216.5)
 [14Apr2025 18:30:40.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu joined the game
+[14Apr2025 18:33:41.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu was blown up by Marine Bomber
+[14Apr2025 18:33:50.050] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/97365, l='ServerLevel[world]', x=-1012.49, y=47.69, z=-1237.55]
+[14Apr2025 18:33:50.051] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/97366, l='ServerLevel[world]', x=-1013.26, y=47.32, z=-1235.47]
+[14Apr2025 18:33:50.051] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/97367, l='ServerLevel[world]', x=-1016.47, y=49.50, z=-1239.73]
+[14Apr2025 18:33:50.051] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/97370, l='ServerLevel[world]', x=-1014.27, y=48.61, z=-1239.49]
+[14Apr2025 18:33:50.051] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/97372, l='ServerLevel[world]', x=-1010.71, y=48.71, z=-1237.27]
+[14Apr2025 18:35:08.761] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@58739e4b
+[14Apr2025 18:35:08.768] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:38307] logged in with entity id 100723 at (-846.53044406296, 62.0, -960.5150053189803)
+[14Apr2025 18:35:08.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[14Apr2025 18:35:30.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Superag_Games a server operator
+[14Apr2025 18:35:34.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[14Apr2025 18:35:53.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu to Superag_Games]
+[14Apr2025 18:36:12.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[14Apr2025 18:36:24.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[14Apr2025 18:36:33.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Made Superag_Games no longer a server operator]
+[14Apr2025 18:36:55.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu has made the advancement [Getting an Upgrade]
+[14Apr2025 18:36:55.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu has made the advancement [Stone Age]
+[14Apr2025 18:39:18.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu has made the advancement [Monster Hunter]
+[14Apr2025 18:40:01.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu has made the advancement [Sweet Dreams]
