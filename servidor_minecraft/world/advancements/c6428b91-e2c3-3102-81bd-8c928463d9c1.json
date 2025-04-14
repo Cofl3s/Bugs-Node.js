@@ -337,6 +337,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-04-14 18:53:21 +0000",
       "apple": "2025-04-14 17:43:16 +0000",
       "bread": "2025-04-14 17:23:45 +0000",
       "golden_apple": "2025-04-14 17:20:43 +0000",
@@ -1666,6 +1667,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 17:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-14 18:55:50 +0000"
     },
     "done": true
   },

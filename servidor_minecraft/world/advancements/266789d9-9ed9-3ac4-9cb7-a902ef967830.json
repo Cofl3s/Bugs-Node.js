@@ -400,6 +400,12 @@
     },
     "done": true
   },
+  "mineminenomi:recipes/food/cola": {
+    "criteria": {
+      "has_bottle": "2025-04-14 18:58:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2025-04-14 18:21:41 +0000"
@@ -614,6 +620,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-14 18:26:27 +0000",
       "minecraft:spider": "2025-04-14 18:26:33 +0000",
+      "minecraft:witch": "2025-04-14 18:58:51 +0000",
       "minecraft:zombie": "2025-04-14 18:18:41 +0000",
       "minecraft:zombie_villager": "2025-04-14 18:38:06 +0000"
     },

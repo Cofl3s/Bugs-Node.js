@@ -1621,3 +1621,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [14Apr2025 18:40:01.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu has made the advancement [Sweet Dreams]
 [14Apr2025 18:47:42.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
 [14Apr2025 18:50:09.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Superag_Games> xaero-waypoint:a:A:-1799:69:-1528:12:false:0:Internal-overworld-waypoints
+[14Apr2025 18:57:09.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu was slain by Pirate with Axe
+[14Apr2025 18:57:35.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Naifu to Superag_Games
+[14Apr2025 18:59:08.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu was killed by Marine Sniper
+[14Apr2025 18:59:29.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Naifu to Superag_Games
