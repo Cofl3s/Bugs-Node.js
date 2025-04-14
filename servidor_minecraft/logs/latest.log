@@ -1689,3 +1689,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [14Apr2025 21:02:19.500] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:47799] logged in with entity id 246664 at (593.7426782618915, 62.073264576653635, -1390.1804956402148)
 [14Apr2025 21:02:19.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
 [14Apr2025 21:02:38.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Superag_Games to cofl3s
+[14Apr2025 21:06:50.893] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[14Apr2025 21:06:50.964] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[14Apr2025 21:06:50.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[14Apr2025 21:07:02.903] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@149c4a41[id=<null>,name=cofl3s,properties={},legacy=false] (/127.194.228.212:44947) lost connection: Disconnected
+[14Apr2025 21:07:07.097] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7b1473d2
+[14Apr2025 21:07:07.102] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.194.228.212:57139] logged in with entity id 247285 at (591.9168747904208, 62.073264576653635, -1400.3516551370199)
+[14Apr2025 21:07:07.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[14Apr2025 21:07:15.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Superag_Games> tu puede papi
+[14Apr2025 21:07:17.490] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Disconnected
+[14Apr2025 21:07:17.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[14Apr2025 21:07:45.590] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Disconnected
+[14Apr2025 21:07:45.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[14Apr2025 21:07:52.940] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@337b739
+[14Apr2025 21:07:52.947] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.194.228.212:47015] logged in with entity id 247710 at (591.9168747904208, 62.073264576653635, -1400.3516551370199)
+[14Apr2025 21:07:52.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[14Apr2025 21:08:14.439] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Disconnected
+[14Apr2025 21:08:14.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[14Apr2025 21:08:22.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] me escribe cuando deje de jugar para apagar el srv
+[14Apr2025 21:08:23.487] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3be85a8b
+[14Apr2025 21:08:23.492] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.194.228.212:55795] logged in with entity id 248138 at (591.129007751191, 62.073264576653635, -1399.7050693277026)
+[14Apr2025 21:08:23.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[14Apr2025 21:08:35.888] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Disconnected
+[14Apr2025 21:08:35.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[14Apr2025 21:09:23.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Apr2025 21:09:23.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Apr2025 21:09:23.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Apr2025 21:09:23.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Apr2025 21:09:23.060] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSPhysicsPipelineBackgroundTask/]: Physics pipeline ending
+[14Apr2025 21:09:23.104] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Apr2025 21:09:23.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Apr2025 21:09:23.105] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Apr2025 21:09:23.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Apr2025 21:09:23.106] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Apr2025 21:09:23.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ancientjapan:jigoku
+[14Apr2025 21:09:23.107] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (jigoku): All chunks are saved
+[14Apr2025 21:09:23.128] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Apr2025 21:09:23.224] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Apr2025 21:09:23.224] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Apr2025 21:09:23.224] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (jigoku): All chunks are saved
