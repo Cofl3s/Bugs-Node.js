@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-14 19:09:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-04-14 18:36:55 +0000"
@@ -377,6 +383,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-04-14 18:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-04-14 19:09:41 +0000"
     },
     "done": true
   },
@@ -737,6 +749,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-04-14 18:36:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-14 19:04:11 +0000"
     },
     "done": true
   },
