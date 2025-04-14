@@ -1530,3 +1530,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [14Apr2025 17:19:42.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Superag_Games a server operator
 [14Apr2025 17:19:47.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
 [14Apr2025 17:20:41.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[14Apr2025 17:24:34.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Sweet Dreams]
+[14Apr2025 17:24:38.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Sweet Dreams]
+[14Apr2025 17:27:25.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Stone Age]
+[14Apr2025 17:27:27.940] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Disconnected
+[14Apr2025 17:27:27.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[14Apr2025 17:27:56.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Getting an Upgrade]
+[14Apr2025 17:28:38.341] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/10771, l='ServerLevel[world]', x=135.57, y=63.00, z=-288.77]
+[14Apr2025 17:28:38.341] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/10772, l='ServerLevel[world]', x=135.57, y=63.00, z=-288.77]
+[14Apr2025 17:28:38.342] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/10773, l='ServerLevel[world]', x=135.57, y=63.00, z=-288.77]
+[14Apr2025 17:31:24.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[14Apr2025 17:31:29.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
