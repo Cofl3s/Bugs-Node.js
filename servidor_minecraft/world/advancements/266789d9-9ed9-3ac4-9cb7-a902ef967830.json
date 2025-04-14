@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-14 20:51:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/glaive_stone": {
     "criteria": {
       "has_cobblestone": "2025-04-14 18:19:22 +0000"
@@ -561,6 +567,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-14 18:26:27 +0000",
       "minecraft:spider": "2025-04-14 18:26:33 +0000",
+      "minecraft:creeper": "2025-04-14 20:47:26 +0000",
       "minecraft:witch": "2025-04-14 18:58:51 +0000",
       "minecraft:husk": "2025-04-14 19:25:21 +0000",
       "minecraft:enderman": "2025-04-14 20:11:01 +0000",
@@ -1153,10 +1160,13 @@
       "minecraft:desert": "2025-04-14 17:16:18 +0000",
       "minecraft:birch_forest": "2025-04-14 19:27:58 +0000",
       "minecraft:savanna_plateau": "2025-04-14 19:52:58 +0000",
+      "minecraft:beach": "2025-04-14 20:49:48 +0000",
+      "minecraft:dark_forest": "2025-04-14 20:49:51 +0000",
       "minecraft:river": "2025-04-14 18:07:11 +0000",
       "minecraft:birch_forest_hills": "2025-04-14 20:30:04 +0000",
       "minecraft:wooded_mountains": "2025-04-14 20:37:19 +0000",
       "minecraft:wooded_hills": "2025-04-14 19:17:26 +0000",
+      "minecraft:stone_shore": "2025-04-14 20:49:08 +0000",
       "minecraft:swamp": "2025-04-14 17:26:11 +0000",
       "minecraft:savanna": "2025-04-14 18:15:18 +0000",
       "minecraft:plains": "2025-04-14 17:15:59 +0000"
@@ -2635,6 +2645,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_wood": {
     "criteria": {
       "has_wood": "2025-04-14 17:22:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-14 20:51:01 +0000"
     },
     "done": true
   },
