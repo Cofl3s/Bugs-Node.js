@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2025-04-14 19:16:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-04-14 17:24:34 +0000"
@@ -788,6 +794,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/light_blue_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-04-14 19:16:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-04-14 18:27:51 +0000"
@@ -869,6 +881,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-04-14 18:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-14 19:18:11 +0000"
     },
     "done": true
   },
@@ -1190,11 +1208,18 @@
       "minecraft:desert_hills": "2025-04-14 18:06:43 +0000",
       "minecraft:desert": "2025-04-14 17:16:18 +0000",
       "minecraft:river": "2025-04-14 18:07:11 +0000",
+      "minecraft:wooded_hills": "2025-04-14 19:17:26 +0000",
       "minecraft:swamp": "2025-04-14 17:26:11 +0000",
       "minecraft:savanna": "2025-04-14 18:15:18 +0000",
       "minecraft:plains": "2025-04-14 17:15:59 +0000"
     },
     "done": false
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/big_light_blue_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-04-14 19:16:05 +0000"
+    },
+    "done": true
   },
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_wood": {
     "criteria": {
@@ -1343,6 +1368,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-04-14 18:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-14 19:18:11 +0000"
     },
     "done": true
   },
