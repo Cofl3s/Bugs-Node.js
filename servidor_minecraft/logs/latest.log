@@ -1,82 +1,80 @@
-[14Apr2025 21:25:34.553] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[14Apr2025 21:25:34.556] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.26 by Ubuntu
-[14Apr2025 21:25:34.967] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[14Apr2025 21:25:35.040] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/Bugs-Node.js/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[14Apr2025 21:25:35.644] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[14Apr2025 21:25:35.768] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[14Apr2025 21:25:35.779] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[14Apr2025 21:25:35.787] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[14Apr2025 21:25:36.792] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[14Apr2025 21:25:37.122] [main/WARN] [mixin/]: Reference map 'eureka-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
-[14Apr2025 21:25:38.118] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/actors/BlockBreakingKineticTileEntity (java.lang.ClassNotFoundException: null)
-[14Apr2025 21:25:38.118] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.actors.BlockBreakingKineticTileEntity was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlockBreakingKineticTileEntity
-[14Apr2025 21:25:38.120] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/millstone/MillstoneBlock (java.lang.ClassNotFoundException: null)
-[14Apr2025 21:25:38.121] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.millstone.MillstoneBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
-[14Apr2025 21:25:38.122] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/processing/BasinBlock (java.lang.ClassNotFoundException: null)
-[14Apr2025 21:25:38.122] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.processing.BasinBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
-[14Apr2025 21:25:38.124] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/block/chute/AbstractChuteBlock (java.lang.ClassNotFoundException: null)
-[14Apr2025 21:25:38.124] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.block.chute.AbstractChuteBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
-[14Apr2025 21:25:38.125] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/structureMovement/render/ContraptionRenderInfo (java.lang.ClassNotFoundException: null)
-[14Apr2025 21:25:38.125] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.structureMovement.render.ContraptionRenderInfo was not found valkyrienskies-forge.mixins.json:compat.create.MixinContraptionRenderInfo
-[14Apr2025 21:25:38.141] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/crusher/CrushingWheelBlock (java.lang.ClassNotFoundException: null)
-[14Apr2025 21:25:38.142] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.crusher.CrushingWheelBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinCrushingWheelBlock
-[14Apr2025 21:25:38.143] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/structureMovement/render/RenderedContraption (java.lang.ClassNotFoundException: null)
-[14Apr2025 21:25:38.143] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.structureMovement.render.RenderedContraption was not found valkyrienskies-forge.mixins.json:compat.create.MixinRenderedContraption
-[14Apr2025 21:25:38.145] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/material/MaterialManager (java.lang.ClassNotFoundException: null)
-[14Apr2025 21:25:38.145] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.material.MaterialManager was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MaterialManagerAccessor
-[14Apr2025 21:25:38.146] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/instancing/InstanceManager (java.lang.ClassNotFoundException: null)
-[14Apr2025 21:25:38.146] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.instancing.InstanceManager was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MixinInstanceManager
-[14Apr2025 21:25:38.147] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/instancing/InstanceWorld (java.lang.ClassNotFoundException: null)
-[14Apr2025 21:25:38.147] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.instancing.InstanceWorld was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MixinInstanceWorld
-[14Apr2025 21:25:38.148] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/instancing/tile/TileInstanceManager (java.lang.ClassNotFoundException: null)
-[14Apr2025 21:25:38.149] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.instancing.tile.TileInstanceManager was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MixinTileInstanceManager
-[14Apr2025 21:25:38.149] [main/WARN] [mixin/]: Error loading class: cofh/core/tileentity/TileCoFH (java.lang.ClassNotFoundException: null)
-[14Apr2025 21:25:44.956] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[14Apr2025 21:25:44.959] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[14Apr2025 21:25:44.960] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[14Apr2025 21:25:44.960] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[14Apr2025 21:25:45.249] [modloading-worker-2/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[14Apr2025 21:25:45.807] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[14Apr2025 21:25:45.807] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 6
-[14Apr2025 21:25:46.849] [modloading-worker-3/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[14Apr2025 21:25:46.849] [modloading-worker-3/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[14Apr2025 21:25:48.888] [modloading-worker-2/INFO] [STDERR/]: [org.slf4j.helpers.Util:report:128]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
-[14Apr2025 21:25:48.889] [modloading-worker-2/INFO] [STDERR/]: [org.slf4j.helpers.Util:report:128]: SLF4J: Defaulting to no-operation (NOP) logger implementation
-[14Apr2025 21:25:48.889] [modloading-worker-2/INFO] [STDERR/]: [org.slf4j.helpers.Util:report:128]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-[14Apr2025 21:25:49.261] [modloading-worker-0/INFO] [STDOUT/]: [org.valkyrienskies.core.config.VSConfigClass$Companion:registerNetworkHandlers:199]: registering network handlers
-[14Apr2025 21:25:50.074] [main/INFO] [Spartan Shields/]: Registering Items
-[14Apr2025 21:25:50.077] [main/INFO] [Spartan Shields/]: Registered Items successfully!
-[14Apr2025 21:25:50.132] [main/INFO] [Spartan Weaponry/]: Registering items...
-[14Apr2025 21:25:50.142] [main/INFO] [Spartan Weaponry/]: Items Registered!
-[14Apr2025 21:25:50.283] [main/INFO] [Spartan Shields/]: Registering Enchantments
-[14Apr2025 21:25:50.283] [main/INFO] [Spartan Shields/]: Registered Enchantments successfully!
-[14Apr2025 21:25:50.530] [main/INFO] [Spartan Weaponry/]: Registering Entities
-[14Apr2025 21:25:50.863] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[14Apr2025 21:25:50.870] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[14Apr2025 21:25:50.872] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[14Apr2025 21:25:51.131] [modloading-worker-3/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[14Apr2025 21:25:51.238] [modloading-worker-3/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[14Apr2025 21:25:51.332] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
-[14Apr2025 21:25:51.791] [modloading-worker-2/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[14Apr2025 21:25:51.797] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[14Apr2025 21:25:52.314] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[14Apr2025 22:06:55.786] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[14Apr2025 22:06:55.789] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.26 by Ubuntu
+[14Apr2025 22:06:56.078] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[14Apr2025 22:06:56.138] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/Bugs-Node.js/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[14Apr2025 22:06:56.735] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Apr2025 22:06:56.822] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Apr2025 22:06:56.829] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Apr2025 22:06:56.836] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[14Apr2025 22:06:58.364] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[14Apr2025 22:06:58.710] [main/WARN] [mixin/]: Reference map 'eureka-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Apr2025 22:07:00.109] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/actors/BlockBreakingKineticTileEntity (java.lang.ClassNotFoundException: null)
+[14Apr2025 22:07:00.110] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.actors.BlockBreakingKineticTileEntity was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlockBreakingKineticTileEntity
+[14Apr2025 22:07:00.111] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/millstone/MillstoneBlock (java.lang.ClassNotFoundException: null)
+[14Apr2025 22:07:00.111] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.millstone.MillstoneBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
+[14Apr2025 22:07:00.114] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/processing/BasinBlock (java.lang.ClassNotFoundException: null)
+[14Apr2025 22:07:00.114] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.processing.BasinBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
+[14Apr2025 22:07:00.115] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/block/chute/AbstractChuteBlock (java.lang.ClassNotFoundException: null)
+[14Apr2025 22:07:00.115] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.block.chute.AbstractChuteBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
+[14Apr2025 22:07:00.117] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/structureMovement/render/ContraptionRenderInfo (java.lang.ClassNotFoundException: null)
+[14Apr2025 22:07:00.117] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.structureMovement.render.ContraptionRenderInfo was not found valkyrienskies-forge.mixins.json:compat.create.MixinContraptionRenderInfo
+[14Apr2025 22:07:00.118] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/crusher/CrushingWheelBlock (java.lang.ClassNotFoundException: null)
+[14Apr2025 22:07:00.119] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.crusher.CrushingWheelBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinCrushingWheelBlock
+[14Apr2025 22:07:00.120] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/structureMovement/render/RenderedContraption (java.lang.ClassNotFoundException: null)
+[14Apr2025 22:07:00.121] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.structureMovement.render.RenderedContraption was not found valkyrienskies-forge.mixins.json:compat.create.MixinRenderedContraption
+[14Apr2025 22:07:00.122] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/material/MaterialManager (java.lang.ClassNotFoundException: null)
+[14Apr2025 22:07:00.122] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.material.MaterialManager was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MaterialManagerAccessor
+[14Apr2025 22:07:00.123] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/instancing/InstanceManager (java.lang.ClassNotFoundException: null)
+[14Apr2025 22:07:00.124] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.instancing.InstanceManager was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MixinInstanceManager
+[14Apr2025 22:07:00.125] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/instancing/InstanceWorld (java.lang.ClassNotFoundException: null)
+[14Apr2025 22:07:00.125] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.instancing.InstanceWorld was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MixinInstanceWorld
+[14Apr2025 22:07:00.126] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/instancing/tile/TileInstanceManager (java.lang.ClassNotFoundException: null)
+[14Apr2025 22:07:00.127] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.instancing.tile.TileInstanceManager was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MixinTileInstanceManager
+[14Apr2025 22:07:00.129] [main/WARN] [mixin/]: Error loading class: cofh/core/tileentity/TileCoFH (java.lang.ClassNotFoundException: null)
+[14Apr2025 22:07:06.716] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[14Apr2025 22:07:06.723] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[14Apr2025 22:07:06.723] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[14Apr2025 22:07:06.723] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[14Apr2025 22:07:07.187] [modloading-worker-1/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[14Apr2025 22:07:08.103] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[14Apr2025 22:07:08.103] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 6
+[14Apr2025 22:07:09.116] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[14Apr2025 22:07:09.116] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[14Apr2025 22:07:11.535] [modloading-worker-1/INFO] [STDERR/]: [org.slf4j.helpers.Util:report:128]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+[14Apr2025 22:07:11.535] [modloading-worker-1/INFO] [STDERR/]: [org.slf4j.helpers.Util:report:128]: SLF4J: Defaulting to no-operation (NOP) logger implementation
+[14Apr2025 22:07:11.535] [modloading-worker-1/INFO] [STDERR/]: [org.slf4j.helpers.Util:report:128]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[14Apr2025 22:07:11.992] [modloading-worker-3/INFO] [STDOUT/]: [org.valkyrienskies.core.config.VSConfigClass$Companion:registerNetworkHandlers:199]: registering network handlers
+[14Apr2025 22:07:12.908] [main/INFO] [Spartan Shields/]: Registering Items
+[14Apr2025 22:07:12.911] [main/INFO] [Spartan Shields/]: Registered Items successfully!
+[14Apr2025 22:07:13.062] [main/INFO] [Spartan Weaponry/]: Registering items...
+[14Apr2025 22:07:13.069] [main/INFO] [Spartan Weaponry/]: Items Registered!
+[14Apr2025 22:07:13.216] [main/INFO] [Spartan Shields/]: Registering Enchantments
+[14Apr2025 22:07:13.217] [main/INFO] [Spartan Shields/]: Registered Enchantments successfully!
+[14Apr2025 22:07:13.428] [main/INFO] [Spartan Weaponry/]: Registering Entities
+[14Apr2025 22:07:13.809] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[14Apr2025 22:07:13.954] [modloading-worker-3/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[14Apr2025 22:07:14.078] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[14Apr2025 22:07:14.154] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
+[14Apr2025 22:07:14.557] [modloading-worker-1/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[14Apr2025 22:07:14.562] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[14Apr2025 22:07:15.082] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[14Apr2025 21:25:52.315] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[14Apr2025 21:25:52.642] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[14Apr2025 21:25:52.642] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Starting version check at http://olafkeijsers.net/fastleafdecay-update.json
-[14Apr2025 21:25:53.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Found status: UP_TO_DATE Current: v25.2 Target: null
-[14Apr2025 21:25:55.968] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14Apr2025 21:25:56.761] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14Apr2025 21:25:56.762] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14Apr2025 21:25:56.764] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14Apr2025 21:25:56.765] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14Apr2025 21:25:56.766] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14Apr2025 21:25:56.776] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, mine-mine-no-mi-1.16.5-0.9.5.jar, motrs-BETA-0.0.1.jar, Pirates_And_Looters_Kraken_Update.jar, jei-1.16.5-7.8.0.1009.jar, torohealth-1.16.4-forge-4.jar, SpartanShields-1.16.5-2.1.2.jar, Xaeros_Minimap_25.2.0_Forge_1.16.5.jar, gravestone-1.16.5-1.0.6.jar, collective-1.16.5-5.49.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, sophisticatedbackpacks-1.16.5-3.15.20.755.jar, SpartanWeaponry-1.16.5-2.2.0-rc-2.jar, architectury-419699-3857643.jar, cloth-config-forge-4.16.91.jar, carryon-1.16.5-1.15.6.24.jar, AncientGuns_3.2_1.16.4.jar, valkyrienskies-116-2.0.0-alpha6.jar, eureka-1.0.0-alpha7.jar, forge-1.16.5-36.2.42-universal.jar, FastLeafDecay-v25.2.jar, valhelsia_core-16.0.15.jar, valhelsia_structures-1.16.5-0.1.6.jar, geckolib-forge-1.16.5-3.0.106.jar, replantingcrops_1.16.5-4.1.jar
-[14Apr2025 21:25:58.363] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:wettingefpt
+[14Apr2025 22:07:15.083] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[14Apr2025 22:07:15.243] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[14Apr2025 22:07:15.243] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Starting version check at http://olafkeijsers.net/fastleafdecay-update.json
+[14Apr2025 22:07:15.442] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Found status: UP_TO_DATE Current: v25.2 Target: null
+[14Apr2025 22:07:18.027] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14Apr2025 22:07:18.900] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14Apr2025 22:07:18.902] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14Apr2025 22:07:18.904] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14Apr2025 22:07:18.907] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14Apr2025 22:07:18.910] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14Apr2025 22:07:18.922] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, mine-mine-no-mi-1.16.5-0.9.5.jar, motrs-BETA-0.0.1.jar, Pirates_And_Looters_Kraken_Update.jar, jei-1.16.5-7.8.0.1009.jar, torohealth-1.16.4-forge-4.jar, SpartanShields-1.16.5-2.1.2.jar, Xaeros_Minimap_25.2.0_Forge_1.16.5.jar, gravestone-1.16.5-1.0.6.jar, collective-1.16.5-5.49.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, sophisticatedbackpacks-1.16.5-3.15.20.755.jar, SpartanWeaponry-1.16.5-2.2.0-rc-2.jar, architectury-419699-3857643.jar, cloth-config-forge-4.16.91.jar, carryon-1.16.5-1.15.6.24.jar, AncientGuns_3.2_1.16.4.jar, valkyrienskies-116-2.0.0-alpha6.jar, eureka-1.0.0-alpha7.jar, forge-1.16.5-36.2.42-universal.jar, FastLeafDecay-v25.2.jar, valhelsia_core-16.0.15.jar, valhelsia_structures-1.16.5-0.1.6.jar, geckolib-forge-1.16.5-3.0.106.jar, replantingcrops_1.16.5-4.1.jar
+[14Apr2025 22:07:20.881] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:wettingefpt
 com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:wetemptyflintlockpistol'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -125,7 +123,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:wetemptyflin
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[14Apr2025 21:25:58.390] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:steelnuggetcook
+[14Apr2025 22:07:20.910] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:steelnuggetcook
 com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:steelslag'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -174,7 +172,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:steelslag'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[14Apr2025 21:25:58.396] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:largebarrelrecipe
+[14Apr2025 22:07:20.918] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:largebarrelrecipe
 com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:barrelcore'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -225,7 +223,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:barrelcore'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[14Apr2025 21:25:58.437] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:flintlockpistolrechargue
+[14Apr2025 22:07:20.945] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:flintlockpistolrechargue
 com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:muzzleloadedbullet'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -275,7 +273,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:muzzleloaded
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[14Apr2025 21:25:58.466] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:flintlockpepperboxrecipe1
+[14Apr2025 22:07:20.962] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:flintlockpepperboxrecipe1
 com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:smallbarrel'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -326,7 +324,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:smallbarrel'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[14Apr2025 21:25:58.485] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:smallbarrelrecipe
+[14Apr2025 22:07:20.974] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:smallbarrelrecipe
 com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:barrelcore'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -377,7 +375,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:barrelcore'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[14Apr2025 21:25:58.522] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:barrelformercreation
+[14Apr2025 22:07:20.990] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:barrelformercreation
 com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:barrelformer'
 	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -423,7 +421,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:barrelformer
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[14Apr2025 21:25:58.528] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:fpr1ct1b
+[14Apr2025 22:07:20.991] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:fpr1ct1b
 com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:chargedflintlockpepperbox'
 	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -473,7 +471,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:chargedflint
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[14Apr2025 21:25:58.535] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:steelcompat
+[14Apr2025 22:07:20.996] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:steelcompat
 com.google.gson.JsonSyntaxException: Unknown item tag 'minecraft:ingot/steel'
 	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:223) ~[?:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge:?]
@@ -522,7 +520,7 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'minecraft:ingot/steel'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[14Apr2025 21:25:58.557] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:fulminantrecipe
+[14Apr2025 22:07:21.007] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:fulminantrecipe
 com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -568,516 +566,98 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[14Apr2025 21:25:58.560] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
-[14Apr2025 21:25:59.148] [Worker-Main-5/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[14Apr2025 21:25:59.459] [Worker-Main-5/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[14Apr2025 21:25:59.498] [Worker-Main-5/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[14Apr2025 21:25:59.609] [Worker-Main-5/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[14Apr2025 21:25:59.610] [Worker-Main-5/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[14Apr2025 21:25:59.611] [Worker-Main-5/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[14Apr2025 21:25:59.611] [Worker-Main-5/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[14Apr2025 21:25:59.611] [Worker-Main-5/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[14Apr2025 21:25:59.611] [Worker-Main-5/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[14Apr2025 21:25:59.870] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1594 advancements
-[14Apr2025 21:26:01.007] [main/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, valhelsia_structures:jars, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, alexsmobs:roadrunner_spawns, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, alexsmobs:alligator_snapping_turtle_spawns, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:ores/redstone, minecraft:warped_stems, forge:glass/red, forge:storage_blocks/iron, forge:glass_panes/brown, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, forge:braziers, forge:blocks/steel_block, alexsmobs:drops_bananas, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, minecraft:beds, forge:ores/diamond, minecraft:unstable_bottom_center, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, alexsmobs:rattlesnake_spawns, minecraft:wall_post_override, forge:obsidian, forge:enderman_place_on_blacklist, alexsmobs:kangaroo_spawns, alexsmobs:seal_digables, forge:glass/white, forge:glass_panes/red, minecraft:signs, minecraft:wither_summon_base_blocks, forge:glass/magenta, alexsmobs:mimic_octopus_spawns, forge:ores/coal, minecraft:hoglin_repellents, minecraft:fire, minecraft:base_stone_nether, minecraft:wall_signs, carryon:block_whitelist, alexsmobs:drops_acacia_blossoms, mineminenomi:kairoseki, forge:sand/colorless, minecraft:trapdoors, alexsmobs:komodo_dragon_spawns, forge:glass/cyan, alexsmobs:crow_fears, alexsmobs:mantis_shrimp_spawns, forge:glass, minecraft:soul_speed_blocks, alexsmobs:lobster_spawns, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, forge:glass/green, alexsmobs:cachalot_whale_breakables, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, forge:stained_glass_panes, mineminenomi:nophase, valhelsia_structures:colored_jars, minecraft:underwater_bonemeals, forge:sand/red, minecraft:impermeable, alexsmobs:emu_spawns, minecraft:sand, forge:end_stones, forge:glass/brown, minecraft:logs_that_burn, forge:fences/wooden, forge:glass/gray, minecraft:campfires, forge:storage_blocks, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, alexsmobs:platypus_spawns, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, forge:storage_blocks/redstone, alexsmobs:grizzly_beehive, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:stone, alexsmobs:crocodile_spawns, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, minecraft:crimson_stems, alexsmobs:soul_vulture_spawns, minecraft:wart_blocks, alexsmobs:leafcutter_ant_breakables, alexsmobs:gorilla_breakables, mineminenomi:rusty, gravestone:grave_replaceable, minecraft:beacon_base_blocks, alexsmobs:orca_breakables, alexsmobs:seal_spawns, minecraft:shulker_boxes, alexsmobs:mungus_replace_mushroom, valhelsia_structures:cut_posts, minecraft:anvil, minecraft:birch_logs, forge:sand, minecraft:wall_corals, forge:glass_panes/purple, forge:glass/yellow, alexsmobs:elephant_foodblocks, minecraft:oak_logs, forge:ores/gold, forge:barrels, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:portals, alexsmobs:mungus_replace_nether, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, alexsmobs:crow_foodblocks, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, vs_eureka:ship_helms, forge:glass/orange, forge:glass_panes/lime, vs_eureka:balloons, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, minecraft:corals, minecraft:buttons, minecraft:flowers, alexsmobs:void_worm_breakables, minecraft:planks, forge:cobblestone, minecraft:rails, forge:barrels/wooden, alexsmobs:soul_vulture_perches, minecraft:strider_warm_blocks, forge:storage_blocks/gold, minecraft:fence_gates, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:tall_flowers, forge:fences, minecraft:stone_pressure_plates, valhelsia_structures:non_flammable_posts, forge:storage_blocks/diamond, minecraft:nylium, alexsmobs:warped_mosco_breakables, minecraft:gold_ores, valhelsia_structures:posts, forge:glass_panes/pink, forge:netherrack]
-[14Apr2025 21:26:01.008] [main/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, valhelsia_structures:jars, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, alexsmobs:roadrunner_spawns, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, alexsmobs:alligator_snapping_turtle_spawns, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:ores/redstone, minecraft:warped_stems, forge:glass/red, forge:storage_blocks/iron, forge:glass_panes/brown, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, forge:braziers, forge:blocks/steel_block, alexsmobs:drops_bananas, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, minecraft:beds, forge:ores/diamond, minecraft:unstable_bottom_center, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, alexsmobs:rattlesnake_spawns, minecraft:wall_post_override, forge:obsidian, forge:enderman_place_on_blacklist, alexsmobs:kangaroo_spawns, alexsmobs:seal_digables, forge:glass/white, forge:glass_panes/red, minecraft:signs, minecraft:wither_summon_base_blocks, forge:glass/magenta, alexsmobs:mimic_octopus_spawns, forge:ores/coal, minecraft:hoglin_repellents, minecraft:fire, minecraft:base_stone_nether, minecraft:wall_signs, carryon:block_whitelist, alexsmobs:drops_acacia_blossoms, mineminenomi:kairoseki, forge:sand/colorless, minecraft:trapdoors, alexsmobs:komodo_dragon_spawns, forge:glass/cyan, alexsmobs:crow_fears, alexsmobs:mantis_shrimp_spawns, forge:glass, minecraft:soul_speed_blocks, alexsmobs:lobster_spawns, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, forge:glass/green, alexsmobs:cachalot_whale_breakables, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, forge:stained_glass_panes, mineminenomi:nophase, valhelsia_structures:colored_jars, minecraft:underwater_bonemeals, forge:sand/red, minecraft:impermeable, alexsmobs:emu_spawns, minecraft:sand, forge:end_stones, forge:glass/brown, minecraft:logs_that_burn, forge:fences/wooden, forge:glass/gray, minecraft:campfires, forge:storage_blocks, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, alexsmobs:platypus_spawns, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, forge:storage_blocks/redstone, alexsmobs:grizzly_beehive, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:stone, alexsmobs:crocodile_spawns, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, minecraft:crimson_stems, alexsmobs:soul_vulture_spawns, minecraft:wart_blocks, alexsmobs:leafcutter_ant_breakables, alexsmobs:gorilla_breakables, mineminenomi:rusty, gravestone:grave_replaceable, minecraft:beacon_base_blocks, alexsmobs:orca_breakables, alexsmobs:seal_spawns, minecraft:shulker_boxes, alexsmobs:mungus_replace_mushroom, valhelsia_structures:cut_posts, minecraft:anvil, minecraft:birch_logs, forge:sand, minecraft:wall_corals, forge:glass_panes/purple, forge:glass/yellow, alexsmobs:elephant_foodblocks, minecraft:oak_logs, forge:ores/gold, forge:barrels, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:portals, alexsmobs:mungus_replace_nether, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, alexsmobs:crow_foodblocks, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, vs_eureka:ship_helms, forge:glass/orange, forge:glass_panes/lime, vs_eureka:balloons, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, minecraft:corals, minecraft:buttons, minecraft:flowers, alexsmobs:void_worm_breakables, minecraft:planks, forge:cobblestone, minecraft:rails, forge:barrels/wooden, alexsmobs:soul_vulture_perches, minecraft:strider_warm_blocks, forge:storage_blocks/gold, minecraft:fence_gates, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:tall_flowers, forge:fences, minecraft:stone_pressure_plates, valhelsia_structures:non_flammable_posts, forge:storage_blocks/diamond, minecraft:nylium, alexsmobs:warped_mosco_breakables, minecraft:gold_ores, valhelsia_structures:posts, forge:glass_panes/pink, forge:netherrack]
-[14Apr2025 21:26:02.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[14Apr2025 21:26:02.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[14Apr2025 21:26:02.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[14Apr2025 21:26:02.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[14Apr2025 21:26:02.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[14Apr2025 21:26:02.901] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[14Apr2025 21:26:03.039] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14Apr2025 21:26:03.039] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[14Apr2025 21:26:03.040] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14Apr2025 21:26:03.040] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[14Apr2025 21:26:03.110] [Server thread/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, valhelsia_structures:jars, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, alexsmobs:roadrunner_spawns, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, alexsmobs:alligator_snapping_turtle_spawns, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:ores/redstone, minecraft:warped_stems, forge:glass/red, forge:storage_blocks/iron, forge:glass_panes/brown, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, forge:braziers, forge:blocks/steel_block, alexsmobs:drops_bananas, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, minecraft:beds, forge:ores/diamond, minecraft:unstable_bottom_center, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, alexsmobs:rattlesnake_spawns, minecraft:wall_post_override, forge:obsidian, forge:enderman_place_on_blacklist, alexsmobs:kangaroo_spawns, alexsmobs:seal_digables, forge:glass/white, forge:glass_panes/red, minecraft:signs, minecraft:wither_summon_base_blocks, forge:glass/magenta, alexsmobs:mimic_octopus_spawns, forge:ores/coal, minecraft:hoglin_repellents, minecraft:fire, minecraft:base_stone_nether, minecraft:wall_signs, carryon:block_whitelist, alexsmobs:drops_acacia_blossoms, mineminenomi:kairoseki, forge:sand/colorless, minecraft:trapdoors, alexsmobs:komodo_dragon_spawns, forge:glass/cyan, alexsmobs:crow_fears, alexsmobs:mantis_shrimp_spawns, forge:glass, minecraft:soul_speed_blocks, alexsmobs:lobster_spawns, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, forge:glass/green, alexsmobs:cachalot_whale_breakables, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, forge:stained_glass_panes, mineminenomi:nophase, valhelsia_structures:colored_jars, minecraft:underwater_bonemeals, forge:sand/red, minecraft:impermeable, alexsmobs:emu_spawns, minecraft:sand, forge:end_stones, forge:glass/brown, minecraft:logs_that_burn, forge:fences/wooden, forge:glass/gray, minecraft:campfires, forge:storage_blocks, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, alexsmobs:platypus_spawns, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, forge:storage_blocks/redstone, alexsmobs:grizzly_beehive, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:stone, alexsmobs:crocodile_spawns, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, minecraft:crimson_stems, alexsmobs:soul_vulture_spawns, minecraft:wart_blocks, alexsmobs:leafcutter_ant_breakables, alexsmobs:gorilla_breakables, mineminenomi:rusty, gravestone:grave_replaceable, minecraft:beacon_base_blocks, alexsmobs:orca_breakables, alexsmobs:seal_spawns, minecraft:shulker_boxes, alexsmobs:mungus_replace_mushroom, valhelsia_structures:cut_posts, minecraft:anvil, minecraft:birch_logs, forge:sand, minecraft:wall_corals, forge:glass_panes/purple, forge:glass/yellow, alexsmobs:elephant_foodblocks, minecraft:oak_logs, forge:ores/gold, forge:barrels, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:portals, alexsmobs:mungus_replace_nether, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, alexsmobs:crow_foodblocks, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, vs_eureka:ship_helms, forge:glass/orange, forge:glass_panes/lime, vs_eureka:balloons, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, minecraft:corals, minecraft:buttons, minecraft:flowers, alexsmobs:void_worm_breakables, minecraft:planks, forge:cobblestone, minecraft:rails, forge:barrels/wooden, alexsmobs:soul_vulture_perches, minecraft:strider_warm_blocks, forge:storage_blocks/gold, minecraft:fence_gates, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:tall_flowers, forge:fences, minecraft:stone_pressure_plates, valhelsia_structures:non_flammable_posts, forge:storage_blocks/diamond, minecraft:nylium, alexsmobs:warped_mosco_breakables, minecraft:gold_ores, valhelsia_structures:posts, forge:glass_panes/pink, forge:netherrack]
-[14Apr2025 21:26:03.115] [Thread-0/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, valhelsia_structures:jars, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, alexsmobs:roadrunner_spawns, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, alexsmobs:alligator_snapping_turtle_spawns, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:ores/redstone, minecraft:warped_stems, forge:glass/red, forge:storage_blocks/iron, forge:glass_panes/brown, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, forge:braziers, forge:blocks/steel_block, alexsmobs:drops_bananas, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, minecraft:beds, forge:ores/diamond, minecraft:unstable_bottom_center, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, alexsmobs:rattlesnake_spawns, minecraft:wall_post_override, forge:obsidian, forge:enderman_place_on_blacklist, alexsmobs:kangaroo_spawns, alexsmobs:seal_digables, forge:glass/white, forge:glass_panes/red, minecraft:signs, minecraft:wither_summon_base_blocks, forge:glass/magenta, alexsmobs:mimic_octopus_spawns, forge:ores/coal, minecraft:hoglin_repellents, minecraft:fire, minecraft:base_stone_nether, minecraft:wall_signs, carryon:block_whitelist, alexsmobs:drops_acacia_blossoms, mineminenomi:kairoseki, forge:sand/colorless, minecraft:trapdoors, alexsmobs:komodo_dragon_spawns, forge:glass/cyan, alexsmobs:crow_fears, alexsmobs:mantis_shrimp_spawns, forge:glass, minecraft:soul_speed_blocks, alexsmobs:lobster_spawns, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, forge:glass/green, alexsmobs:cachalot_whale_breakables, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, forge:stained_glass_panes, mineminenomi:nophase, valhelsia_structures:colored_jars, minecraft:underwater_bonemeals, forge:sand/red, minecraft:impermeable, alexsmobs:emu_spawns, minecraft:sand, forge:end_stones, forge:glass/brown, minecraft:logs_that_burn, forge:fences/wooden, forge:glass/gray, minecraft:campfires, forge:storage_blocks, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, alexsmobs:platypus_spawns, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, forge:storage_blocks/redstone, alexsmobs:grizzly_beehive, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:stone, alexsmobs:crocodile_spawns, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, minecraft:crimson_stems, alexsmobs:soul_vulture_spawns, minecraft:wart_blocks, alexsmobs:leafcutter_ant_breakables, alexsmobs:gorilla_breakables, mineminenomi:rusty, gravestone:grave_replaceable, minecraft:beacon_base_blocks, alexsmobs:orca_breakables, alexsmobs:seal_spawns, minecraft:shulker_boxes, alexsmobs:mungus_replace_mushroom, valhelsia_structures:cut_posts, minecraft:anvil, minecraft:birch_logs, forge:sand, minecraft:wall_corals, forge:glass_panes/purple, forge:glass/yellow, alexsmobs:elephant_foodblocks, minecraft:oak_logs, forge:ores/gold, forge:barrels, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:portals, alexsmobs:mungus_replace_nether, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, alexsmobs:crow_foodblocks, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, vs_eureka:ship_helms, forge:glass/orange, forge:glass_panes/lime, vs_eureka:balloons, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, minecraft:corals, minecraft:buttons, minecraft:flowers, alexsmobs:void_worm_breakables, minecraft:planks, forge:cobblestone, minecraft:rails, forge:barrels/wooden, alexsmobs:soul_vulture_perches, minecraft:strider_warm_blocks, forge:storage_blocks/gold, minecraft:fence_gates, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:tall_flowers, forge:fences, minecraft:stone_pressure_plates, valhelsia_structures:non_flammable_posts, forge:storage_blocks/diamond, minecraft:nylium, alexsmobs:warped_mosco_breakables, minecraft:gold_ores, valhelsia_structures:posts, forge:glass_panes/pink, forge:netherrack]
-[14Apr2025 21:26:03.120] [Thread-0/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, valhelsia_structures:jars, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, alexsmobs:roadrunner_spawns, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, alexsmobs:alligator_snapping_turtle_spawns, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:ores/redstone, minecraft:warped_stems, forge:glass/red, forge:storage_blocks/iron, forge:glass_panes/brown, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, forge:braziers, forge:blocks/steel_block, alexsmobs:drops_bananas, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, minecraft:beds, forge:ores/diamond, minecraft:unstable_bottom_center, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, alexsmobs:rattlesnake_spawns, minecraft:wall_post_override, forge:obsidian, forge:enderman_place_on_blacklist, alexsmobs:kangaroo_spawns, alexsmobs:seal_digables, forge:glass/white, forge:glass_panes/red, minecraft:signs, minecraft:wither_summon_base_blocks, forge:glass/magenta, alexsmobs:mimic_octopus_spawns, forge:ores/coal, minecraft:hoglin_repellents, minecraft:fire, minecraft:base_stone_nether, minecraft:wall_signs, carryon:block_whitelist, alexsmobs:drops_acacia_blossoms, mineminenomi:kairoseki, forge:sand/colorless, minecraft:trapdoors, alexsmobs:komodo_dragon_spawns, forge:glass/cyan, alexsmobs:crow_fears, alexsmobs:mantis_shrimp_spawns, forge:glass, minecraft:soul_speed_blocks, alexsmobs:lobster_spawns, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, forge:glass/green, alexsmobs:cachalot_whale_breakables, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, forge:stained_glass_panes, mineminenomi:nophase, valhelsia_structures:colored_jars, minecraft:underwater_bonemeals, forge:sand/red, minecraft:impermeable, alexsmobs:emu_spawns, minecraft:sand, forge:end_stones, forge:glass/brown, minecraft:logs_that_burn, forge:fences/wooden, forge:glass/gray, minecraft:campfires, forge:storage_blocks, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, alexsmobs:platypus_spawns, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, forge:storage_blocks/redstone, alexsmobs:grizzly_beehive, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:stone, alexsmobs:crocodile_spawns, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, minecraft:crimson_stems, alexsmobs:soul_vulture_spawns, minecraft:wart_blocks, alexsmobs:leafcutter_ant_breakables, alexsmobs:gorilla_breakables, mineminenomi:rusty, gravestone:grave_replaceable, minecraft:beacon_base_blocks, alexsmobs:orca_breakables, alexsmobs:seal_spawns, minecraft:shulker_boxes, alexsmobs:mungus_replace_mushroom, valhelsia_structures:cut_posts, minecraft:anvil, minecraft:birch_logs, forge:sand, minecraft:wall_corals, forge:glass_panes/purple, forge:glass/yellow, alexsmobs:elephant_foodblocks, minecraft:oak_logs, forge:ores/gold, forge:barrels, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:portals, alexsmobs:mungus_replace_nether, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, alexsmobs:crow_foodblocks, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, vs_eureka:ship_helms, forge:glass/orange, forge:glass_panes/lime, vs_eureka:balloons, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, minecraft:corals, minecraft:buttons, minecraft:flowers, alexsmobs:void_worm_breakables, minecraft:planks, forge:cobblestone, minecraft:rails, forge:barrels/wooden, alexsmobs:soul_vulture_perches, minecraft:strider_warm_blocks, forge:storage_blocks/gold, minecraft:fence_gates, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:tall_flowers, forge:fences, minecraft:stone_pressure_plates, valhelsia_structures:non_flammable_posts, forge:storage_blocks/diamond, minecraft:nylium, alexsmobs:warped_mosco_breakables, minecraft:gold_ores, valhelsia_structures:posts, forge:glass_panes/pink, forge:netherrack]
-[14Apr2025 21:26:03.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[14Apr2025 21:26:04.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[14Apr2025 21:26:07.681] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[14Apr2025 21:26:07.681] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[14Apr2025 21:26:07.682] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[14Apr2025 21:26:07.683] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[14Apr2025 21:26:07.683] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[14Apr2025 21:26:07.684] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[14Apr2025 21:26:07.684] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[14Apr2025 21:26:07.690] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[14Apr2025 21:26:08.228] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 72%
-[14Apr2025 21:26:08.619] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 4430 ms
-[14Apr2025 21:26:08.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.538s)! For help, type "help"
-[14Apr2025 21:26:08.680] [Server thread/INFO] [Spartan Weaponry/]: Starting up Server for Spartan Weaponry!
-[14Apr2025 21:26:09.515] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[14Apr2025 21:26:18.985] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7f7d97c8
-[14Apr2025 21:26:19.099] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:46591] logged in with entity id 37 at (599.8598390123105, 67.0, -1409.4717618043057)
-[14Apr2025 21:26:19.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
-[14Apr2025 21:26:23.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
-[14Apr2025 21:26:51.442] [Server thread/WARN] [org.valkyrienskies.core.networking.UdpServerImpl/]: There were 5 cases of failed connections in a row, is the UDP port accessible?
-[14Apr2025 21:26:51.442] [Server thread/INFO] [org.valkyrienskies.core.networking.UdpServerImpl/]: By disabling UDP this warning shall not be printed anymore.
-[14Apr2025 21:26:55.716] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2e59455
-[14Apr2025 21:26:55.730] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.194.228.212:39471] logged in with entity id 253 at (591.129007751191, 62.073264576653635, -1399.7050693277026)
-[14Apr2025 21:26:55.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
-[14Apr2025 21:27:51.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported cofl3s to Superag_Games
-[14Apr2025 21:32:54.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was slain by Pirate Spader
-[14Apr2025 21:33:31.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported cofl3s to Superag_Games
-[14Apr2025 21:34:59.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was shot by Cannoner Pirate
-[14Apr2025 21:35:10.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported cofl3s to Superag_Games
-[14Apr2025 21:35:18.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was shot by Cannoner Pirate
-[14Apr2025 21:35:27.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported cofl3s to Superag_Games
-[14Apr2025 21:35:48.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was slain by Pirate Spader
-[14Apr2025 21:36:10.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was shot by Cannoner Pirate
-[14Apr2025 21:36:15.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was shot by Cannoner Pirate
-[14Apr2025 21:36:22.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was shot by Cannoner Pirate
-[14Apr2025 21:36:28.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was shot by Cannoner Pirate
-[14Apr2025 21:36:34.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was shot by Cannoner Pirate
-[14Apr2025 21:37:06.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was shot by Cannoner Pirate
-[14Apr2025 21:37:14.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported cofl3s to Superag_Games
-[14Apr2025 21:44:02.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Superag_Games to cofl3s
-[14Apr2025 21:44:13.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games drowned
-[14Apr2025 21:44:29.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Superag_Games to cofl3s
-[14Apr2025 21:46:52.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was slain by Fighting Fish
-[14Apr2025 21:47:12.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported cofl3s to Superag_Games
-[14Apr2025 21:48:13.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was doomed to fall
-[14Apr2025 21:48:22.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Superag_Games to cofl3s
-[14Apr2025 21:49:08.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was doomed to fall by Marine with Sword
-[14Apr2025 21:49:16.589] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
-[14Apr2025 21:49:16.592] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
-[14Apr2025 21:49:16.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
-[14Apr2025 21:49:16.642] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[14Apr2025 21:49:22.351] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@55a16422
-[14Apr2025 21:49:22.359] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.194.228.212:39231] logged in with entity id 7671 at (65.05163423220316, 75.82241702281496, -213.0650327205658)
-[14Apr2025 21:49:22.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
-[14Apr2025 21:49:26.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made SuperAG a server operator
-[14Apr2025 21:49:28.293] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
-[14Apr2025 21:49:28.340] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
-[14Apr2025 21:49:28.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
-[14Apr2025 21:49:34.147] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@50171c1e
-[14Apr2025 21:49:34.154] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.194.228.212:59853] logged in with entity id 7714 at (63.27959874488707, 74.66287215328657, -214.97185022835933)
-[14Apr2025 21:49:34.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
-[14Apr2025 21:49:34.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Superag_Games a server operator
-[14Apr2025 21:49:39.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
-[14Apr2025 21:49:39.940] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
-[14Apr2025 21:49:39.992] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
-[14Apr2025 21:49:39.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
-[14Apr2025 21:49:44.893] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4db03bd7
-[14Apr2025 21:49:44.898] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.194.228.212:51063] logged in with entity id 7756 at (62.98650839698763, 80.89957185692327, -214.03173601487487)
-[14Apr2025 21:49:44.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
-[14Apr2025 21:49:47.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
-[14Apr2025 21:49:50.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
-[14Apr2025 21:50:46.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> no puedo
-[14Apr2025 21:51:06.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> 859 65.5 -1614
-[14Apr2025 21:51:27.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Superag_Games to 859.5, 70.0, -1649.5]
-[14Apr2025 21:51:44.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
-[14Apr2025 21:51:55.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
-[14Apr2025 22:00:16.443] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Red Bed'/14880, l='ServerLevel[world]', x=702.69, y=64.61, z=-1672.54]
-[14Apr2025 22:00:16.444] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Red Bed'/14880, l='ServerLevel[world]', x=702.69, y=64.61, z=-1672.54]
-[14Apr2025 22:00:18.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was doomed to fall
-[14Apr2025 22:00:32.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
-[14Apr2025 22:01:00.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2276ms or 45 ticks behind
-[14Apr2025 22:01:09.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
-[14Apr2025 22:02:05.132] [Server Watchdog/FATAL] [net.minecraft.server.dedicated.ServerHangWatchdog/]: A single server tick took 60.00 seconds (should be max 0.05)
-[14Apr2025 22:02:05.132] [Server Watchdog/FATAL] [net.minecraft.server.dedicated.ServerHangWatchdog/]: Considering it to be crashed, server will forcibly shutdown.
-[14Apr2025 22:02:05.313] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID e486dfb2-9c86-4cc0-96a0-1cbe5d46855f
-[14Apr2025 22:02:05.320] [Server Watchdog/INFO] [STDOUT/]: [net.minecraft.util.registry.Bootstrap:func_179870_a:123]: Crash report:
----- Minecraft Crash Report ----
-// Daisy, daisy...
-
-Time: 4/14/25, 10:02 PM
-Description: Watching Server
-
-java.lang.Error: ServerHangWatchdog detected that a single server tick took 60.00 seconds (should be max 0.05)
-	at java.util.ArrayList.indexOfRange(ArrayList.java:330) ~[?:?] {}
-	at java.util.ArrayList.indexOf(ArrayList.java:318) ~[?:?] {}
-	at java.util.ArrayList.contains(ArrayList.java:307) ~[?:?] {}
-	at xyz.pixelatedw.mineminenomi.entities.projectiles.goro.LightningEntity.func_70071_h_(LightningEntity.java:275) ~[mineminenomi:0.9.5] {re:classloading,pl:runtimedistcleaner:A}
-	at net.minecraft.world.server.ServerWorld.func_217479_a(ServerWorld.java:612) ~[?:?] {re:mixin,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:mine-mine-no-mi.mixins.json:IServerWorldMixin,pl:mixin:APP:valkyrienskies-common.mixins.json:server.world.MixinServerLevel,pl:mixin:A,pl:runtimedistcleaner:A}
-	at net.minecraft.world.server.ServerWorld$$Lambda$8723/0x00000008418b2840.accept(Unknown Source) ~[?:?] {}
-	at net.minecraft.world.World.func_217390_a(World.java:554) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:valkyrienskies-common.mixins.json:feature.clip_replace.MixinLevel,pl:mixin:APP:valkyrienskies-common.mixins.json:world.MixinLevel,pl:mixin:A,pl:runtimedistcleaner:A}
-	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:405) ~[?:?] {re:mixin,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:mine-mine-no-mi.mixins.json:IServerWorldMixin,pl:mixin:APP:valkyrienskies-common.mixins.json:server.world.MixinServerLevel,pl:mixin:A,pl:runtimedistcleaner:A}
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:851) ~[?:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,pl:mixin:APP:valkyrienskies-common.mixins.json:server.MixinMinecraftServer,pl:mixin:A,pl:runtimedistcleaner:A}
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?] {re:classloading,pl:accesstransformer:B}
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,pl:mixin:APP:valkyrienskies-common.mixins.json:server.MixinMinecraftServer,pl:mixin:A,pl:runtimedistcleaner:A}
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,pl:mixin:APP:valkyrienskies-common.mixins.json:server.MixinMinecraftServer,pl:mixin:A,pl:runtimedistcleaner:A}
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,pl:mixin:APP:valkyrienskies-common.mixins.json:server.MixinMinecraftServer,pl:mixin:A,pl:runtimedistcleaner:A}
-	at net.minecraft.server.MinecraftServer$$Lambda$8096/0x0000000841721840.run(Unknown Source) ~[?:?] {}
-	at java.lang.Thread.run(Thread.java:829) [?:?] {}
-
-
-A detailed walkthrough of the error, its code path and all known details is as follows:
----------------------------------------------------------------------------------------
-
--- Head --
-Thread: Server Watchdog
-Stacktrace:
-	at java.util.ArrayList.indexOfRange(ArrayList.java:330) ~[?:?] {}
-	at java.util.ArrayList.indexOf(ArrayList.java:318) ~[?:?] {}
-	at java.util.ArrayList.contains(ArrayList.java:307) ~[?:?] {}
-	at xyz.pixelatedw.mineminenomi.entities.projectiles.goro.LightningEntity.func_70071_h_(LightningEntity.java:275) ~[mineminenomi:0.9.5] {re:classloading,pl:runtimedistcleaner:A}
-	at net.minecraft.world.server.ServerWorld.func_217479_a(ServerWorld.java:612) ~[?:?] {re:mixin,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:mine-mine-no-mi.mixins.json:IServerWorldMixin,pl:mixin:APP:valkyrienskies-common.mixins.json:server.world.MixinServerLevel,pl:mixin:A,pl:runtimedistcleaner:A}
-	at net.minecraft.world.server.ServerWorld$$Lambda$8723/0x00000008418b2840.accept(Unknown Source) ~[?:?] {}
-	at net.minecraft.world.World.func_217390_a(World.java:554) ~[?:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:valkyrienskies-common.mixins.json:feature.clip_replace.MixinLevel,pl:mixin:APP:valkyrienskies-common.mixins.json:world.MixinLevel,pl:mixin:A,pl:runtimedistcleaner:A}
-	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:405) ~[?:?] {re:mixin,pl:runtimedistcleaner:A,re:classloading,pl:mixin:APP:mine-mine-no-mi.mixins.json:IServerWorldMixin,pl:mixin:APP:valkyrienskies-common.mixins.json:server.world.MixinServerLevel,pl:mixin:A,pl:runtimedistcleaner:A}
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:851) ~[?:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,pl:mixin:APP:valkyrienskies-common.mixins.json:server.MixinMinecraftServer,pl:mixin:A,pl:runtimedistcleaner:A}
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?] {re:classloading,pl:accesstransformer:B}
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,pl:mixin:APP:valkyrienskies-common.mixins.json:server.MixinMinecraftServer,pl:mixin:A,pl:runtimedistcleaner:A}
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,pl:mixin:APP:valkyrienskies-common.mixins.json:server.MixinMinecraftServer,pl:mixin:A,pl:runtimedistcleaner:A}
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,pl:mixin:APP:valkyrienskies-common.mixins.json:server.MixinMinecraftServer,pl:mixin:A,pl:runtimedistcleaner:A}
--- Thread Dump --
-Details:
-	Threads: "Reference Handler" daemon prio=10 Id=2 RUNNABLE
-	at java.base@11.0.26/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
-	at java.base@11.0.26/java.lang.ref.Reference.processPendingReferences(Reference.java:241)
-	at java.base@11.0.26/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:213)
-
-
-"Finalizer" daemon prio=8 Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@425b4cbc
-	at java.base@11.0.26/java.lang.Object.wait(Native Method)
-	-  waiting on java.lang.ref.ReferenceQueue$Lock@425b4cbc
-	at java.base@11.0.26/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
-	at java.base@11.0.26/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
-	at java.base@11.0.26/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:170)
-
-
-"Signal Dispatcher" daemon prio=9 Id=4 RUNNABLE
-
-
-"Common-Cleaner" daemon prio=8 Id=10 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@4c9cba87
-	at java.base@11.0.26/java.lang.Object.wait(Native Method)
-	-  waiting on java.lang.ref.ReferenceQueue$Lock@4c9cba87
-	at java.base@11.0.26/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
-	at java.base@11.0.26/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:148)
-	at java.base@11.0.26/java.lang.Thread.run(Thread.java:829)
-	at java.base@11.0.26/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:161)
-
-
-"ForkJoinPool.commonPool-worker-3" daemon prio=5 Id=18 WAITING on java.util.concurrent.ForkJoinPool@48a327cc
-	at java.base@11.0.26/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.ForkJoinPool@48a327cc
-	at java.base@11.0.26/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
-	at java.base@11.0.26/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1628)
-	at java.base@11.0.26/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
-
-
-"Thread-0" daemon prio=5 Id=19 TIMED_WAITING
-	at java.base@11.0.26/jdk.internal.misc.Unsafe.park(Native Method)
-	at java.base@11.0.26/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:357)
-	at app//com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:190)
-
-
-"FileSystemWatchService" daemon prio=5 Id=20 RUNNABLE (in native)
-	at java.base@11.0.26/sun.nio.fs.LinuxWatchService.poll(Native Method)
-	at java.base@11.0.26/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:316)
-	at java.base@11.0.26/java.lang.Thread.run(Thread.java:829)
-
-
-"Worker-Bootstrap-3" daemon prio=5 Id=24 WAITING on java.util.concurrent.ForkJoinPool@da1b0bc
-	at java.base@11.0.26/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.ForkJoinPool@da1b0bc
-	at java.base@11.0.26/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
-	at java.base@11.0.26/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1628)
-	at java.base@11.0.26/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
-
-
-"Timer hack thread" daemon prio=5 Id=25 TIMED_WAITING
-	at java.base@11.0.26/java.lang.Thread.sleep(Native Method)
-	at net.minecraft.util.Util$6.run(Util.java:505)
-
-
-"modloading-worker-3" daemon prio=5 Id=28 WAITING on java.util.concurrent.ForkJoinPool@15073318
-	at java.base@11.0.26/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.ForkJoinPool@15073318
-	at java.base@11.0.26/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
-	at java.base@11.0.26/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1628)
-	at java.base@11.0.26/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
-
-
-"Thread-1" daemon prio=5 Id=30 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@3c66fbbd
-	at java.base@11.0.26/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@3c66fbbd
-	at java.base@11.0.26/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
-	at java.base@11.0.26/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2081)
-	at java.base@11.0.26/java.util.concurrent.LinkedBlockingDeque.takeFirst(LinkedBlockingDeque.java:483)
-	at java.base@11.0.26/java.util.concurrent.LinkedBlockingDeque.take(LinkedBlockingDeque.java:671)
-	at java.base@11.0.26/sun.nio.fs.AbstractWatchService.take(AbstractWatchService.java:118)
-	at net.torocraft.torohealth.config.loader.FileWatcher.pollEvents(FileWatcher.java:54)
-	at net.torocraft.torohealth.config.loader.FileWatcher.run(FileWatcher.java:46)
-	...
-
-
-"FileSystemWatchService" daemon prio=5 Id=31 RUNNABLE (in native)
-	at java.base@11.0.26/sun.nio.fs.LinuxWatchService.poll(Native Method)
-	at java.base@11.0.26/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:316)
-	at java.base@11.0.26/java.lang.Thread.run(Thread.java:829)
-
-
-"Worker-Main-6" daemon prio=5 Id=40 TIMED_WAITING on java.util.concurrent.ForkJoinPool@6d2a26ba
-	at java.base@11.0.26/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.ForkJoinPool@6d2a26ba
-	at java.base@11.0.26/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:275)
-	at java.base@11.0.26/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1619)
-	at java.base@11.0.26/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
-
-
-"Snooper Timer" daemon prio=5 Id=42 WAITING on java.util.TaskQueue@6d8e4ff3
-	at java.base@11.0.26/java.lang.Object.wait(Native Method)
-	-  waiting on java.util.TaskQueue@6d8e4ff3
-	at java.base@11.0.26/java.lang.Object.wait(Object.java:328)
-	at java.base@11.0.26/java.util.TimerThread.mainLoop(Timer.java:527)
-	at java.base@11.0.26/java.util.TimerThread.run(Timer.java:506)
-
-
-"Server thread" prio=5 Id=41 RUNNABLE
-	at java.base@11.0.26/java.util.ArrayList.indexOfRange(ArrayList.java:330)
-	at java.base@11.0.26/java.util.ArrayList.indexOf(ArrayList.java:318)
-	at java.base@11.0.26/java.util.ArrayList.contains(ArrayList.java:307)
-	at xyz.pixelatedw.mineminenomi.entities.projectiles.goro.LightningEntity.func_70071_h_(LightningEntity.java:275)
-	at net.minecraft.world.server.ServerWorld.func_217479_a(ServerWorld.java:612)
-	at net.minecraft.world.server.ServerWorld$$Lambda$8723/0x00000008418b2840.accept(Unknown Source)
-	at net.minecraft.world.World.func_217390_a(World.java:554)
-	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:405)
-	...
-
-
-"DestroyJavaVM" prio=5 Id=44 RUNNABLE
-
-
-"Server console handler" daemon prio=5 Id=45 RUNNABLE
-	at java.base@11.0.26/java.io.FileInputStream.read0(Native Method)
-	at java.base@11.0.26/java.io.FileInputStream.read(FileInputStream.java:231)
-	at app//org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73)
-	at app//org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62)
-	at app//org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168)
-	at app//org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
-	at app//org.jline.keymap.BindingReader.readCharacter(BindingReader.java:133)
-	at app//org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)
-	...
-
-
-"ObjectCleanerThread" daemon prio=1 Id=46 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@413d2ea9
-	at java.base@11.0.26/java.lang.Object.wait(Native Method)
-	-  waiting on java.lang.ref.ReferenceQueue$Lock@413d2ea9
-	at java.base@11.0.26/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
-	at app//io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54)
-	at app//io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
-	at java.base@11.0.26/java.lang.Thread.run(Thread.java:829)
-
-
-"Netty Epoll Server IO #0" daemon prio=5 Id=47 RUNNABLE (in native)
-	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
-	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
-	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
-	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
-	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
-	at java.base@11.0.26/java.lang.Thread.run(Thread.java:829)
-
-
-"FileSystemWatchService" daemon prio=5 Id=48 RUNNABLE (in native)
-	at java.base@11.0.26/sun.nio.fs.LinuxWatchService.poll(Native Method)
-	at java.base@11.0.26/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:316)
-	at java.base@11.0.26/java.lang.Thread.run(Thread.java:829)
-
-
-"Thread-5" prio=5 Id=49 RUNNABLE (in native)
-	at java.base@11.0.26/java.net.PlainDatagramSocketImpl.receive0(Native Method)
-	-  locked java.net.PlainDatagramSocketImpl@4a8d8e20
-	at java.base@11.0.26/java.net.AbstractPlainDatagramSocketImpl.receive(AbstractPlainDatagramSocketImpl.java:200)
-	-  locked java.net.PlainDatagramSocketImpl@4a8d8e20
-	at java.base@11.0.26/java.net.DatagramSocket.receive(DatagramSocket.java:814)
-	-  locked java.net.DatagramPacket@762e6e3d
-	-  locked java.net.DatagramSocket@69c056dc
-	at org.valkyrienskies.core.networking.UdpServerImpl.run(UdpServerImpl.kt:66)
-	at org.valkyrienskies.core.networking.UdpServerImpl$$Lambda$8331/0x00000008417d7040.run(Unknown Source)
-	at java.base@11.0.26/java.lang.Thread.run(Thread.java:829)
-
-
-"Physics thread" prio=8 Id=50 TIMED_WAITING
-	at java.base@11.0.26/jdk.internal.misc.Unsafe.park(Native Method)
-	at java.base@11.0.26/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:357)
-	at org.valkyrienskies.core.pipelines.VSPhysicsPipelineBackgroundTask.sleepExact(VSPhysicsPipelineBackgroundTask.kt:129)
-	at org.valkyrienskies.core.pipelines.VSPhysicsPipelineBackgroundTask.sleepOnLostTime(VSPhysicsPipelineBackgroundTask.kt:120)
-	at org.valkyrienskies.core.pipelines.VSPhysicsPipelineBackgroundTask.run(VSPhysicsPipelineBackgroundTask.kt:80)
-	at org.valkyrienskies.core.pipelines.VSPipeline$physicsThread$1.invoke(VSPipeline.kt:63)
-	at org.valkyrienskies.core.pipelines.VSPipeline$physicsThread$1.invoke(VSPipeline.kt:62)
-	at kotlin.concurrent.ThreadsKt$thread$thread$1.run(Thread.kt:30)
-
-
-"Server Watchdog" daemon prio=5 Id=55 RUNNABLE
-	at java.management@11.0.26/sun.management.ThreadImpl.dumpThreads0(Native Method)
-	at java.management@11.0.26/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:528)
-	at java.management@11.0.26/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:516)
-	at net.minecraft.server.dedicated.ServerHangWatchdog.run(ServerHangWatchdog.java:41)
-	at java.base@11.0.26/java.lang.Thread.run(Thread.java:829)
-
-
-"Netty Epoll Server IO #1" daemon prio=5 Id=56 RUNNABLE (in native)
-	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
-	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
-	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
-	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
-	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
-	at java.base@11.0.26/java.lang.Thread.run(Thread.java:829)
-
-
-"Netty Epoll Server IO #2" daemon prio=5 Id=57 RUNNABLE
-	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
-	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
-	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
-	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
-	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
-	at java.base@11.0.26/java.lang.Thread.run(Thread.java:829)
-
-
-"Netty Epoll Server IO #3" daemon prio=5 Id=58 RUNNABLE (in native)
-	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
-	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
-	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
-	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
-	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
-	at java.base@11.0.26/java.lang.Thread.run(Thread.java:829)
-
-
-"Netty Epoll Server IO #4" daemon prio=5 Id=78 RUNNABLE (in native)
-	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
-	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
-	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
-	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
-	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
-	at java.base@11.0.26/java.lang.Thread.run(Thread.java:829)
-
-
-"Netty Epoll Server IO #5" daemon prio=5 Id=79 RUNNABLE (in native)
-	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
-	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
-	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
-	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
-	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
-	at java.base@11.0.26/java.lang.Thread.run(Thread.java:829)
-
-
-"Netty Epoll Server IO #6" daemon prio=5 Id=80 RUNNABLE
-	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
-	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
-	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
-	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
-	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
-	at java.base@11.0.26/java.lang.Thread.run(Thread.java:829)
-
-
-"Netty Epoll Server IO #7" daemon prio=5 Id=81 RUNNABLE (in native)
-	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
-	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
-	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
-	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
-	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
-	at java.base@11.0.26/java.lang.Thread.run(Thread.java:829)
-
-
-"Worker-Main-29" daemon prio=5 Id=86 TIMED_WAITING on java.util.concurrent.ForkJoinPool@6d2a26ba
-	at java.base@11.0.26/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.ForkJoinPool@6d2a26ba
-	at java.base@11.0.26/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:275)
-	at java.base@11.0.26/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1619)
-	at java.base@11.0.26/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
-
-
-"Worker-Main-30" daemon prio=5 Id=87 WAITING on java.util.concurrent.ForkJoinPool@6d2a26ba
-	at java.base@11.0.26/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.ForkJoinPool@6d2a26ba
-	at java.base@11.0.26/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
-	at java.base@11.0.26/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1628)
-	at java.base@11.0.26/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
-
-
-
-Stacktrace:
-	at net.minecraft.server.dedicated.ServerHangWatchdog.run(ServerHangWatchdog.java:56) [?:?] {re:classloading}
-	at java.lang.Thread.run(Thread.java:829) [?:?] {}
-
-
--- Performance stats --
-Details:
-	Random tick rate: 3
-	Level stats: ResourceKey[minecraft:dimension / minecraft:overworld]: players: 1, entities: 235 [minecraft:item:51,minecraft:creeper:25,minecraft:chest_minecart:23,minecraft:skeleton:21,alexsmobs:lobster:16], block_entities: 88 [minecraft:chest:49,minecraft:mob_spawner:20,mineminenomi:custom_spawner:10,minecraft:trapped_chest:6,minecraft:skull:2], block_ticks: 36, fluid_ticks: 283, chunk_source: ServerChunkCache: 4096,
-ResourceKey[minecraft:dimension / minecraft:the_nether]: players: 0, entities: 0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: ServerChunkCache: 0,
-ResourceKey[minecraft:dimension / minecraft:the_end]: players: 0, entities: 0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: ServerChunkCache: 0,
-ResourceKey[minecraft:dimension / ancientjapan:jigoku]: players: 0, entities: 0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: ServerChunkCache: 0
-
--- System Details --
-Details:
-	Minecraft Version: 1.16.5
-	Minecraft Version ID: 1.16.5
-	Operating System: Linux (amd64) version 6.8.0-1021-azure
-	Java Version: 11.0.26, Ubuntu
-	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
-	Memory: 3496768640 bytes (3334 MB) / 4299161600 bytes (4100 MB) up to 12884901888 bytes (12288 MB)
-	CPUs: 4
-	JVM Flags: 2 total; -Xms2G -Xmx12G
-	ModLauncher: 8.1.3+8.1.3+main-8.1.x.c94d18ec
-	ModLauncher launch target: fmlserver
-	ModLauncher naming: srg
-	ModLauncher services: 
-		/mixin-0.8.4.jar mixin PLUGINSERVICE 
-		/eventbus-4.0.0.jar eventbus PLUGINSERVICE 
-		/forge-1.16.5-36.2.42.jar object_holder_definalize PLUGINSERVICE 
-		/forge-1.16.5-36.2.42.jar runtime_enum_extender PLUGINSERVICE 
-		/forge-1.16.5-36.2.42.jar capability_inject_definalize PLUGINSERVICE 
-		/accesstransformers-3.0.1.jar accesstransformer PLUGINSERVICE 
-		/forge-1.16.5-36.2.42.jar runtimedistcleaner PLUGINSERVICE 
-		/mixin-0.8.4.jar mixin TRANSFORMATIONSERVICE 
-		/forge-1.16.5-36.2.42.jar fml TRANSFORMATIONSERVICE 
-	FML: 36.2
-	Forge: net.minecraftforge:36.2.42
-	FML Language Providers: 
-		javafml@36.2
-		minecraft@1
-		kotlinforforge@1.16.0
-	Mod List: 
-		forge-1.16.5-36.2.42-server.jar                   |Minecraft                     |minecraft                     |1.16.5              |DONE      |Manifest: NOSIGNATURE
-		mine-mine-no-mi-1.16.5-0.9.5.jar                  |Mine Mine no Mi               |mineminenomi                  |0.9.5               |DONE      |Manifest: NOSIGNATURE
-		motrs-BETA-0.0.1.jar                              |AncientJapan                  |ancientjapan                  |1.0.0               |DONE      |Manifest: NOSIGNATURE
-		Pirates_And_Looters_Kraken_Update.jar             |PiratesAndLootersReborn       |piratesandlootersreborn       |1.0.0               |DONE      |Manifest: NOSIGNATURE
-		jei-1.16.5-7.8.0.1009.jar                         |Just Enough Items             |jei                           |7.8.0.1009          |DONE      |Manifest: NOSIGNATURE
-		torohealth-1.16.4-forge-4.jar                     |ToroHealth                    |torohealth                    |NONE                |DONE      |Manifest: NOSIGNATURE
-		SpartanShields-1.16.5-2.1.2.jar                   |Spartan Shields               |spartanshields                |2.1.2               |DONE      |Manifest: NOSIGNATURE
-		Xaeros_Minimap_25.2.0_Forge_1.16.5.jar            |Xaero's Minimap               |xaerominimap                  |25.2.0              |DONE      |Manifest: NOSIGNATURE
-		gravestone-1.16.5-1.0.6.jar                       |Gravestone Mod                |gravestone                    |1.16.5-1.0.6        |DONE      |Manifest: NOSIGNATURE
-		collective-1.16.5-5.49.jar                        |Collective                    |collective                    |5.49                |DONE      |Manifest: NOSIGNATURE
-		citadel-1.8.1-1.16.5.jar                          |Citadel                       |citadel                       |1.8.1               |DONE      |Manifest: NOSIGNATURE
-		alexsmobs-1.12.1.jar                              |Alex's Mobs                   |alexsmobs                     |1.12.1              |DONE      |Manifest: NOSIGNATURE
-		sophisticatedbackpacks-1.16.5-3.15.20.755.jar     |Sophisticated Backpacks       |sophisticatedbackpacks        |1.16.5-3.15.20.755  |DONE      |Manifest: NOSIGNATURE
-		SpartanWeaponry-1.16.5-2.2.0-rc-2.jar             |Spartan Weaponry              |spartanweaponry               |2.2.0 Release Candid|DONE      |Manifest: NOSIGNATURE
-		architectury-419699-3857643.jar                   |Architectury                  |architectury                  |1.32.66             |DONE      |Manifest: NOSIGNATURE
-		cloth-config-forge-4.16.91.jar                    |Cloth Config v4 API           |cloth-config                  |4.16.91             |DONE      |Manifest: NOSIGNATURE
-		carryon-1.16.5-1.15.6.24.jar                      |Carry On                      |carryon                       |1.15.6.24           |DONE      |Manifest: NOSIGNATURE
-		AncientGuns_3.2_1.16.4.jar                        |Ancient Guns                  |ancient_guns                  |3.2                 |DONE      |Manifest: NOSIGNATURE
-		valkyrienskies-116-2.0.0-alpha6.jar               |Valkyrien Skies 2             |valkyrienskies                |2.0.0-alpha6        |DONE      |Manifest: NOSIGNATURE
-		eureka-1.0.0-alpha7.jar                           |VS Eureka Mod                 |vs_eureka                     |1.0.0-alpha7        |DONE      |Manifest: NOSIGNATURE
-		forge-1.16.5-36.2.42-universal.jar                |Forge                         |forge                         |36.2.42             |DONE      |Manifest: 22:af:21:d8:19:82:7f:93:94:fe:2b:ac:b7:e4:41:57:68:39:87:b1:a7:5c:c6:44:f9:25:74:21:14:f5:0d:90
-		FastLeafDecay-v25.2.jar                           |FastLeafDecay                 |fastleafdecay                 |v25.2               |DONE      |Manifest: NOSIGNATURE
-		valhelsia_core-16.0.15.jar                        |Valhelsia Core                |valhelsia_core                |16.0.15             |DONE      |Manifest: NOSIGNATURE
-		valhelsia_structures-1.16.5-0.1.6.jar             |Valhelsia Structures          |valhelsia_structures          |1.16.5-0.1.6        |DONE      |Manifest: NOSIGNATURE
-		geckolib-forge-1.16.5-3.0.106.jar                 |GeckoLib                      |geckolib3                     |3.0.106             |DONE      |Manifest: NOSIGNATURE
-		replantingcrops_1.16.5-4.1.jar                    |Replanting Crops              |replantingcrops               |4.1                 |DONE      |Manifest: NOSIGNATURE
-	Crash Report UUID: e486dfb2-9c86-4cc0-96a0-1cbe5d46855f
-	Player Count: 2 / 20; [ServerPlayerEntity['Superag_Games'/37, l='ServerLevel[world]', x=715.00, y=65.00, z=-1664.00], ServerPlayerEntity['cofl3s'/7756, l='ServerLevel[world]', x=702.36, y=30.00, z=-1668.49]]
-	Data Packs: vanilla, mod:mineminenomi, mod:ancientjapan, mod:piratesandlootersreborn, mod:jei, mod:torohealth, mod:spartanshields, mod:xaerominimap, mod:gravestone, mod:collective, mod:citadel (incompatible), mod:alexsmobs, mod:sophisticatedbackpacks, mod:spartanweaponry, mod:architectury, mod:cloth-config (incompatible), mod:carryon, mod:ancient_guns, mod:valkyrienskies, mod:vs_eureka, mod:forge, mod:fastleafdecay, mod:valhelsia_core, mod:valhelsia_structures, mod:geckolib3 (incompatible), mod:replantingcrops
-	Is Modded: Definitely; Server brand changed to 'forge'
-	Type: Dedicated Server (map_server.txt)
-[14Apr2025 22:02:05.324] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerHangWatchdog/]: This crash report has been saved to: /workspaces/Bugs-Node.js/servidor_minecraft/./crash-reports/crash-2025-04-14_22.02.05-server.txt
-[14Apr2025 22:02:05.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[14Apr2025 22:02:05.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[14Apr2025 22:02:05.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[14Apr2025 22:02:05.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14Apr2025 22:02:05.900] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSPhysicsPipelineBackgroundTask/]: Physics pipeline ending
-[14Apr2025 22:02:06.671] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14Apr2025 22:02:06.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[14Apr2025 22:02:06.672] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14Apr2025 22:02:06.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[14Apr2025 22:02:06.672] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14Apr2025 22:02:06.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ancientjapan:jigoku
-[14Apr2025 22:02:06.673] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (jigoku): All chunks are saved
-[14Apr2025 22:02:06.695] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14Apr2025 22:02:06.709] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14Apr2025 22:02:06.709] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14Apr2025 22:02:06.710] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (jigoku): All chunks are saved
+[14Apr2025 22:07:21.012] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[14Apr2025 22:07:21.660] [Worker-Main-6/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[14Apr2025 22:07:22.248] [Worker-Main-6/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[14Apr2025 22:07:22.277] [Worker-Main-6/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[14Apr2025 22:07:22.334] [Worker-Main-6/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[14Apr2025 22:07:22.334] [Worker-Main-6/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[14Apr2025 22:07:22.334] [Worker-Main-6/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[14Apr2025 22:07:22.336] [Worker-Main-6/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[14Apr2025 22:07:22.336] [Worker-Main-6/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[14Apr2025 22:07:22.336] [Worker-Main-6/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[14Apr2025 22:07:22.538] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1594 advancements
+[14Apr2025 22:07:23.702] [main/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, valhelsia_structures:jars, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, alexsmobs:roadrunner_spawns, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, alexsmobs:alligator_snapping_turtle_spawns, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:ores/redstone, minecraft:warped_stems, forge:glass/red, forge:storage_blocks/iron, forge:glass_panes/brown, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, forge:braziers, forge:blocks/steel_block, alexsmobs:drops_bananas, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, minecraft:beds, forge:ores/diamond, minecraft:unstable_bottom_center, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, alexsmobs:rattlesnake_spawns, minecraft:wall_post_override, forge:obsidian, forge:enderman_place_on_blacklist, alexsmobs:kangaroo_spawns, alexsmobs:seal_digables, forge:glass/white, forge:glass_panes/red, minecraft:signs, minecraft:wither_summon_base_blocks, forge:glass/magenta, alexsmobs:mimic_octopus_spawns, forge:ores/coal, minecraft:hoglin_repellents, minecraft:fire, minecraft:base_stone_nether, minecraft:wall_signs, carryon:block_whitelist, alexsmobs:drops_acacia_blossoms, mineminenomi:kairoseki, forge:sand/colorless, minecraft:trapdoors, alexsmobs:komodo_dragon_spawns, forge:glass/cyan, alexsmobs:crow_fears, alexsmobs:mantis_shrimp_spawns, forge:glass, minecraft:soul_speed_blocks, alexsmobs:lobster_spawns, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, forge:glass/green, alexsmobs:cachalot_whale_breakables, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, forge:stained_glass_panes, mineminenomi:nophase, valhelsia_structures:colored_jars, minecraft:underwater_bonemeals, forge:sand/red, minecraft:impermeable, alexsmobs:emu_spawns, minecraft:sand, forge:end_stones, forge:glass/brown, minecraft:logs_that_burn, forge:fences/wooden, forge:glass/gray, minecraft:campfires, forge:storage_blocks, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, alexsmobs:platypus_spawns, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, forge:storage_blocks/redstone, alexsmobs:grizzly_beehive, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:stone, alexsmobs:crocodile_spawns, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, minecraft:crimson_stems, alexsmobs:soul_vulture_spawns, minecraft:wart_blocks, alexsmobs:leafcutter_ant_breakables, alexsmobs:gorilla_breakables, mineminenomi:rusty, gravestone:grave_replaceable, minecraft:beacon_base_blocks, alexsmobs:orca_breakables, alexsmobs:seal_spawns, minecraft:shulker_boxes, alexsmobs:mungus_replace_mushroom, valhelsia_structures:cut_posts, minecraft:anvil, minecraft:birch_logs, forge:sand, minecraft:wall_corals, forge:glass_panes/purple, forge:glass/yellow, alexsmobs:elephant_foodblocks, minecraft:oak_logs, forge:ores/gold, forge:barrels, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:portals, alexsmobs:mungus_replace_nether, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, alexsmobs:crow_foodblocks, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, vs_eureka:ship_helms, forge:glass/orange, forge:glass_panes/lime, vs_eureka:balloons, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, minecraft:corals, minecraft:buttons, minecraft:flowers, alexsmobs:void_worm_breakables, minecraft:planks, forge:cobblestone, minecraft:rails, forge:barrels/wooden, alexsmobs:soul_vulture_perches, minecraft:strider_warm_blocks, forge:storage_blocks/gold, minecraft:fence_gates, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:tall_flowers, forge:fences, minecraft:stone_pressure_plates, valhelsia_structures:non_flammable_posts, forge:storage_blocks/diamond, minecraft:nylium, alexsmobs:warped_mosco_breakables, minecraft:gold_ores, valhelsia_structures:posts, forge:glass_panes/pink, forge:netherrack]
+[14Apr2025 22:07:23.706] [main/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, valhelsia_structures:jars, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, alexsmobs:roadrunner_spawns, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, alexsmobs:alligator_snapping_turtle_spawns, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:ores/redstone, minecraft:warped_stems, forge:glass/red, forge:storage_blocks/iron, forge:glass_panes/brown, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, forge:braziers, forge:blocks/steel_block, alexsmobs:drops_bananas, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, minecraft:beds, forge:ores/diamond, minecraft:unstable_bottom_center, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, alexsmobs:rattlesnake_spawns, minecraft:wall_post_override, forge:obsidian, forge:enderman_place_on_blacklist, alexsmobs:kangaroo_spawns, alexsmobs:seal_digables, forge:glass/white, forge:glass_panes/red, minecraft:signs, minecraft:wither_summon_base_blocks, forge:glass/magenta, alexsmobs:mimic_octopus_spawns, forge:ores/coal, minecraft:hoglin_repellents, minecraft:fire, minecraft:base_stone_nether, minecraft:wall_signs, carryon:block_whitelist, alexsmobs:drops_acacia_blossoms, mineminenomi:kairoseki, forge:sand/colorless, minecraft:trapdoors, alexsmobs:komodo_dragon_spawns, forge:glass/cyan, alexsmobs:crow_fears, alexsmobs:mantis_shrimp_spawns, forge:glass, minecraft:soul_speed_blocks, alexsmobs:lobster_spawns, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, forge:glass/green, alexsmobs:cachalot_whale_breakables, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, forge:stained_glass_panes, mineminenomi:nophase, valhelsia_structures:colored_jars, minecraft:underwater_bonemeals, forge:sand/red, minecraft:impermeable, alexsmobs:emu_spawns, minecraft:sand, forge:end_stones, forge:glass/brown, minecraft:logs_that_burn, forge:fences/wooden, forge:glass/gray, minecraft:campfires, forge:storage_blocks, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, alexsmobs:platypus_spawns, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, forge:storage_blocks/redstone, alexsmobs:grizzly_beehive, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:stone, alexsmobs:crocodile_spawns, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, minecraft:crimson_stems, alexsmobs:soul_vulture_spawns, minecraft:wart_blocks, alexsmobs:leafcutter_ant_breakables, alexsmobs:gorilla_breakables, mineminenomi:rusty, gravestone:grave_replaceable, minecraft:beacon_base_blocks, alexsmobs:orca_breakables, alexsmobs:seal_spawns, minecraft:shulker_boxes, alexsmobs:mungus_replace_mushroom, valhelsia_structures:cut_posts, minecraft:anvil, minecraft:birch_logs, forge:sand, minecraft:wall_corals, forge:glass_panes/purple, forge:glass/yellow, alexsmobs:elephant_foodblocks, minecraft:oak_logs, forge:ores/gold, forge:barrels, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:portals, alexsmobs:mungus_replace_nether, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, alexsmobs:crow_foodblocks, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, vs_eureka:ship_helms, forge:glass/orange, forge:glass_panes/lime, vs_eureka:balloons, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, minecraft:corals, minecraft:buttons, minecraft:flowers, alexsmobs:void_worm_breakables, minecraft:planks, forge:cobblestone, minecraft:rails, forge:barrels/wooden, alexsmobs:soul_vulture_perches, minecraft:strider_warm_blocks, forge:storage_blocks/gold, minecraft:fence_gates, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:tall_flowers, forge:fences, minecraft:stone_pressure_plates, valhelsia_structures:non_flammable_posts, forge:storage_blocks/diamond, minecraft:nylium, alexsmobs:warped_mosco_breakables, minecraft:gold_ores, valhelsia_structures:posts, forge:glass_panes/pink, forge:netherrack]
+[14Apr2025 22:07:25.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[14Apr2025 22:07:25.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[14Apr2025 22:07:25.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[14Apr2025 22:07:25.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[14Apr2025 22:07:25.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[14Apr2025 22:07:25.387] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[14Apr2025 22:07:25.485] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14Apr2025 22:07:25.485] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[14Apr2025 22:07:25.485] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14Apr2025 22:07:25.486] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[14Apr2025 22:07:25.537] [Server thread/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, valhelsia_structures:jars, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, alexsmobs:roadrunner_spawns, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, alexsmobs:alligator_snapping_turtle_spawns, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:ores/redstone, minecraft:warped_stems, forge:glass/red, forge:storage_blocks/iron, forge:glass_panes/brown, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, forge:braziers, forge:blocks/steel_block, alexsmobs:drops_bananas, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, minecraft:beds, forge:ores/diamond, minecraft:unstable_bottom_center, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, alexsmobs:rattlesnake_spawns, minecraft:wall_post_override, forge:obsidian, forge:enderman_place_on_blacklist, alexsmobs:kangaroo_spawns, alexsmobs:seal_digables, forge:glass/white, forge:glass_panes/red, minecraft:signs, minecraft:wither_summon_base_blocks, forge:glass/magenta, alexsmobs:mimic_octopus_spawns, forge:ores/coal, minecraft:hoglin_repellents, minecraft:fire, minecraft:base_stone_nether, minecraft:wall_signs, carryon:block_whitelist, alexsmobs:drops_acacia_blossoms, mineminenomi:kairoseki, forge:sand/colorless, minecraft:trapdoors, alexsmobs:komodo_dragon_spawns, forge:glass/cyan, alexsmobs:crow_fears, alexsmobs:mantis_shrimp_spawns, forge:glass, minecraft:soul_speed_blocks, alexsmobs:lobster_spawns, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, forge:glass/green, alexsmobs:cachalot_whale_breakables, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, forge:stained_glass_panes, mineminenomi:nophase, valhelsia_structures:colored_jars, minecraft:underwater_bonemeals, forge:sand/red, minecraft:impermeable, alexsmobs:emu_spawns, minecraft:sand, forge:end_stones, forge:glass/brown, minecraft:logs_that_burn, forge:fences/wooden, forge:glass/gray, minecraft:campfires, forge:storage_blocks, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, alexsmobs:platypus_spawns, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, forge:storage_blocks/redstone, alexsmobs:grizzly_beehive, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:stone, alexsmobs:crocodile_spawns, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, minecraft:crimson_stems, alexsmobs:soul_vulture_spawns, minecraft:wart_blocks, alexsmobs:leafcutter_ant_breakables, alexsmobs:gorilla_breakables, mineminenomi:rusty, gravestone:grave_replaceable, minecraft:beacon_base_blocks, alexsmobs:orca_breakables, alexsmobs:seal_spawns, minecraft:shulker_boxes, alexsmobs:mungus_replace_mushroom, valhelsia_structures:cut_posts, minecraft:anvil, minecraft:birch_logs, forge:sand, minecraft:wall_corals, forge:glass_panes/purple, forge:glass/yellow, alexsmobs:elephant_foodblocks, minecraft:oak_logs, forge:ores/gold, forge:barrels, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:portals, alexsmobs:mungus_replace_nether, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, alexsmobs:crow_foodblocks, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, vs_eureka:ship_helms, forge:glass/orange, forge:glass_panes/lime, vs_eureka:balloons, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, minecraft:corals, minecraft:buttons, minecraft:flowers, alexsmobs:void_worm_breakables, minecraft:planks, forge:cobblestone, minecraft:rails, forge:barrels/wooden, alexsmobs:soul_vulture_perches, minecraft:strider_warm_blocks, forge:storage_blocks/gold, minecraft:fence_gates, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:tall_flowers, forge:fences, minecraft:stone_pressure_plates, valhelsia_structures:non_flammable_posts, forge:storage_blocks/diamond, minecraft:nylium, alexsmobs:warped_mosco_breakables, minecraft:gold_ores, valhelsia_structures:posts, forge:glass_panes/pink, forge:netherrack]
+[14Apr2025 22:07:25.540] [Thread-0/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, valhelsia_structures:jars, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, alexsmobs:roadrunner_spawns, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, alexsmobs:alligator_snapping_turtle_spawns, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:ores/redstone, minecraft:warped_stems, forge:glass/red, forge:storage_blocks/iron, forge:glass_panes/brown, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, forge:braziers, forge:blocks/steel_block, alexsmobs:drops_bananas, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, minecraft:beds, forge:ores/diamond, minecraft:unstable_bottom_center, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, alexsmobs:rattlesnake_spawns, minecraft:wall_post_override, forge:obsidian, forge:enderman_place_on_blacklist, alexsmobs:kangaroo_spawns, alexsmobs:seal_digables, forge:glass/white, forge:glass_panes/red, minecraft:signs, minecraft:wither_summon_base_blocks, forge:glass/magenta, alexsmobs:mimic_octopus_spawns, forge:ores/coal, minecraft:hoglin_repellents, minecraft:fire, minecraft:base_stone_nether, minecraft:wall_signs, carryon:block_whitelist, alexsmobs:drops_acacia_blossoms, mineminenomi:kairoseki, forge:sand/colorless, minecraft:trapdoors, alexsmobs:komodo_dragon_spawns, forge:glass/cyan, alexsmobs:crow_fears, alexsmobs:mantis_shrimp_spawns, forge:glass, minecraft:soul_speed_blocks, alexsmobs:lobster_spawns, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, forge:glass/green, alexsmobs:cachalot_whale_breakables, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, forge:stained_glass_panes, mineminenomi:nophase, valhelsia_structures:colored_jars, minecraft:underwater_bonemeals, forge:sand/red, minecraft:impermeable, alexsmobs:emu_spawns, minecraft:sand, forge:end_stones, forge:glass/brown, minecraft:logs_that_burn, forge:fences/wooden, forge:glass/gray, minecraft:campfires, forge:storage_blocks, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, alexsmobs:platypus_spawns, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, forge:storage_blocks/redstone, alexsmobs:grizzly_beehive, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:stone, alexsmobs:crocodile_spawns, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, minecraft:crimson_stems, alexsmobs:soul_vulture_spawns, minecraft:wart_blocks, alexsmobs:leafcutter_ant_breakables, alexsmobs:gorilla_breakables, mineminenomi:rusty, gravestone:grave_replaceable, minecraft:beacon_base_blocks, alexsmobs:orca_breakables, alexsmobs:seal_spawns, minecraft:shulker_boxes, alexsmobs:mungus_replace_mushroom, valhelsia_structures:cut_posts, minecraft:anvil, minecraft:birch_logs, forge:sand, minecraft:wall_corals, forge:glass_panes/purple, forge:glass/yellow, alexsmobs:elephant_foodblocks, minecraft:oak_logs, forge:ores/gold, forge:barrels, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:portals, alexsmobs:mungus_replace_nether, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, alexsmobs:crow_foodblocks, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, vs_eureka:ship_helms, forge:glass/orange, forge:glass_panes/lime, vs_eureka:balloons, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, minecraft:corals, minecraft:buttons, minecraft:flowers, alexsmobs:void_worm_breakables, minecraft:planks, forge:cobblestone, minecraft:rails, forge:barrels/wooden, alexsmobs:soul_vulture_perches, minecraft:strider_warm_blocks, forge:storage_blocks/gold, minecraft:fence_gates, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:tall_flowers, forge:fences, minecraft:stone_pressure_plates, valhelsia_structures:non_flammable_posts, forge:storage_blocks/diamond, minecraft:nylium, alexsmobs:warped_mosco_breakables, minecraft:gold_ores, valhelsia_structures:posts, forge:glass_panes/pink, forge:netherrack]
+[14Apr2025 22:07:25.548] [Thread-0/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, valhelsia_structures:jars, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, alexsmobs:roadrunner_spawns, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, alexsmobs:alligator_snapping_turtle_spawns, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:ores/redstone, minecraft:warped_stems, forge:glass/red, forge:storage_blocks/iron, forge:glass_panes/brown, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, forge:braziers, forge:blocks/steel_block, alexsmobs:drops_bananas, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, minecraft:beds, forge:ores/diamond, minecraft:unstable_bottom_center, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, alexsmobs:rattlesnake_spawns, minecraft:wall_post_override, forge:obsidian, forge:enderman_place_on_blacklist, alexsmobs:kangaroo_spawns, alexsmobs:seal_digables, forge:glass/white, forge:glass_panes/red, minecraft:signs, minecraft:wither_summon_base_blocks, forge:glass/magenta, alexsmobs:mimic_octopus_spawns, forge:ores/coal, minecraft:hoglin_repellents, minecraft:fire, minecraft:base_stone_nether, minecraft:wall_signs, carryon:block_whitelist, alexsmobs:drops_acacia_blossoms, mineminenomi:kairoseki, forge:sand/colorless, minecraft:trapdoors, alexsmobs:komodo_dragon_spawns, forge:glass/cyan, alexsmobs:crow_fears, alexsmobs:mantis_shrimp_spawns, forge:glass, minecraft:soul_speed_blocks, alexsmobs:lobster_spawns, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, forge:glass/green, alexsmobs:cachalot_whale_breakables, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, forge:stained_glass_panes, mineminenomi:nophase, valhelsia_structures:colored_jars, minecraft:underwater_bonemeals, forge:sand/red, minecraft:impermeable, alexsmobs:emu_spawns, minecraft:sand, forge:end_stones, forge:glass/brown, minecraft:logs_that_burn, forge:fences/wooden, forge:glass/gray, minecraft:campfires, forge:storage_blocks, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, alexsmobs:platypus_spawns, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, forge:storage_blocks/redstone, alexsmobs:grizzly_beehive, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:stone, alexsmobs:crocodile_spawns, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, minecraft:crimson_stems, alexsmobs:soul_vulture_spawns, minecraft:wart_blocks, alexsmobs:leafcutter_ant_breakables, alexsmobs:gorilla_breakables, mineminenomi:rusty, gravestone:grave_replaceable, minecraft:beacon_base_blocks, alexsmobs:orca_breakables, alexsmobs:seal_spawns, minecraft:shulker_boxes, alexsmobs:mungus_replace_mushroom, valhelsia_structures:cut_posts, minecraft:anvil, minecraft:birch_logs, forge:sand, minecraft:wall_corals, forge:glass_panes/purple, forge:glass/yellow, alexsmobs:elephant_foodblocks, minecraft:oak_logs, forge:ores/gold, forge:barrels, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:portals, alexsmobs:mungus_replace_nether, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, alexsmobs:crow_foodblocks, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, vs_eureka:ship_helms, forge:glass/orange, forge:glass_panes/lime, vs_eureka:balloons, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, minecraft:corals, minecraft:buttons, minecraft:flowers, alexsmobs:void_worm_breakables, minecraft:planks, forge:cobblestone, minecraft:rails, forge:barrels/wooden, alexsmobs:soul_vulture_perches, minecraft:strider_warm_blocks, forge:storage_blocks/gold, minecraft:fence_gates, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:tall_flowers, forge:fences, minecraft:stone_pressure_plates, valhelsia_structures:non_flammable_posts, forge:storage_blocks/diamond, minecraft:nylium, alexsmobs:warped_mosco_breakables, minecraft:gold_ores, valhelsia_structures:posts, forge:glass_panes/pink, forge:netherrack]
+[14Apr2025 22:07:25.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[14Apr2025 22:07:26.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[14Apr2025 22:07:28.662] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[14Apr2025 22:07:28.664] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[14Apr2025 22:07:28.664] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[14Apr2025 22:07:28.668] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[14Apr2025 22:07:28.669] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[14Apr2025 22:07:31.775] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[14Apr2025 22:07:32.000] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[14Apr2025 22:07:32.004] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[14Apr2025 22:07:32.009] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[14Apr2025 22:07:32.010] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[14Apr2025 22:07:32.011] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[14Apr2025 22:07:32.012] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[14Apr2025 22:07:32.013] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[14Apr2025 22:07:32.529] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[14Apr2025 22:07:32.777] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[14Apr2025 22:07:32.970] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 69%
+[14Apr2025 22:07:33.449] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 70%
+[14Apr2025 22:07:33.779] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[14Apr2025 22:07:33.947] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 71%
+[14Apr2025 22:07:34.453] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 74%
+[14Apr2025 22:07:34.780] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[14Apr2025 22:07:34.971] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 78%
+[14Apr2025 22:07:35.456] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 80%
+[14Apr2025 22:07:35.784] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[14Apr2025 22:07:35.968] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
+[14Apr2025 22:07:36.630] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 85%
+[14Apr2025 22:07:36.784] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[14Apr2025 22:07:36.947] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 86%
+[14Apr2025 22:07:37.454] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 88%
+[14Apr2025 22:07:37.785] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[14Apr2025 22:07:37.960] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 90%
+[14Apr2025 22:07:38.457] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 92%
+[14Apr2025 22:07:38.786] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[14Apr2025 22:07:38.973] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 94%
+[14Apr2025 22:07:39.450] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
+[14Apr2025 22:07:39.789] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[14Apr2025 22:07:39.946] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 97%
+[14Apr2025 22:07:40.270] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 13826 ms
+[14Apr2025 22:07:40.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.751s)! For help, type "help"
+[14Apr2025 22:07:40.298] [Server thread/INFO] [Spartan Weaponry/]: Starting up Server for Spartan Weaponry!
+[14Apr2025 22:07:40.792] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[14Apr2025 22:07:41.796] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[14Apr2025 22:07:57.029] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@309f07c4
+[14Apr2025 22:07:57.069] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:56381] logged in with entity id 38 at (731.7194860917243, 65.00133597911214, -1651.9048182675813)
+[14Apr2025 22:07:57.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[14Apr2025 22:08:27.981] [Server thread/WARN] [org.valkyrienskies.core.networking.UdpServerImpl/]: There were 5 cases of failed connections in a row, is the UDP port accessible?
+[14Apr2025 22:08:27.982] [Server thread/INFO] [org.valkyrienskies.core.networking.UdpServerImpl/]: By disabling UDP this warning shall not be printed anymore.
+[14Apr2025 22:15:37.334] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games was kicked for floating too long!
+[14Apr2025 22:15:37.337] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Disconnected
+[14Apr2025 22:15:37.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[14Apr2025 22:15:37.402] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[14Apr2025 22:15:46.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Apr2025 22:15:46.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Apr2025 22:15:46.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Apr2025 22:15:46.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Apr2025 22:15:46.651] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSPhysicsPipelineBackgroundTask/]: Physics pipeline ending
+[14Apr2025 22:15:46.692] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Apr2025 22:15:46.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Apr2025 22:15:46.693] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Apr2025 22:15:46.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Apr2025 22:15:46.694] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Apr2025 22:15:46.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ancientjapan:jigoku
+[14Apr2025 22:15:46.695] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (jigoku): All chunks are saved
+[14Apr2025 22:15:46.721] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Apr2025 22:15:46.735] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Apr2025 22:15:46.735] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Apr2025 22:15:46.736] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (jigoku): All chunks are saved
