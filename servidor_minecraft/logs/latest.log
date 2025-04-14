@@ -1541,3 +1541,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [14Apr2025 17:28:38.342] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/10773, l='ServerLevel[world]', x=135.57, y=63.00, z=-288.77]
 [14Apr2025 17:31:24.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
 [14Apr2025 17:31:29.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[14Apr2025 17:34:30.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set the time to 1000]
+[14Apr2025 17:38:36.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: The difficulty has been set to Hard]
+[14Apr2025 17:39:33.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games was blown up by Marine Bomber
+[14Apr2025 17:39:42.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Superag_Games to -214.5, 64.5, -140.5]
+[14Apr2025 17:39:59.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[14Apr2025 17:40:46.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[14Apr2025 17:41:34.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games was blown up by Marine Bomber
+[14Apr2025 17:41:40.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[14Apr2025 17:41:46.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Superag_Games to -250.5, 66.5, -198.5]
+[14Apr2025 17:41:46.133] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/20077, l='ServerLevel[world]', x=-250.16, y=66.42, z=-199.25]
+[14Apr2025 17:41:58.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
