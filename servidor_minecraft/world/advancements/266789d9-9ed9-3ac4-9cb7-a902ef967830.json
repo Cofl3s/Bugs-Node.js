@@ -485,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2025-04-14 20:41:10 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2025-04-14 17:15:59 +0000"
@@ -572,6 +578,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-04-14 20:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-14 20:33:11 +0000"
     },
     "done": true
   },
@@ -803,6 +815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-04-14 20:41:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 19:32:31 +0000"
@@ -953,6 +971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-04-14 20:33:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/tomahawk_diamond": {
     "criteria": {
       "has_diamond": "2025-04-14 19:44:01 +0000"
@@ -1004,6 +1028,12 @@
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-04-14 20:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-14 20:41:10 +0000"
     },
     "done": true
   },
@@ -1118,12 +1148,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-04-14 18:28:28 +0000",
+      "minecraft:mountains": "2025-04-14 20:36:58 +0000",
       "minecraft:desert_hills": "2025-04-14 18:06:43 +0000",
       "minecraft:desert": "2025-04-14 17:16:18 +0000",
       "minecraft:birch_forest": "2025-04-14 19:27:58 +0000",
       "minecraft:savanna_plateau": "2025-04-14 19:52:58 +0000",
       "minecraft:river": "2025-04-14 18:07:11 +0000",
       "minecraft:birch_forest_hills": "2025-04-14 20:30:04 +0000",
+      "minecraft:wooded_mountains": "2025-04-14 20:37:19 +0000",
       "minecraft:wooded_hills": "2025-04-14 19:17:26 +0000",
       "minecraft:swamp": "2025-04-14 17:26:11 +0000",
       "minecraft:savanna": "2025-04-14 18:15:18 +0000",
@@ -1461,6 +1493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-14 20:41:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-04-14 17:22:44 +0000"
@@ -1703,6 +1741,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-04-14 18:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-04-14 20:41:10 +0000"
     },
     "done": true
   },
@@ -2072,6 +2116,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/birch_post": {
+    "criteria": {
+      "has_item": "2025-04-14 20:33:11 +0000"
+    },
+    "done": true
+  },
   "mineminenomi:recipes/combat/umbrella": {
     "criteria": {
       "has_wool": "2025-04-14 18:27:51 +0000"
@@ -2081,6 +2131,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/tomahawk_gold": {
     "criteria": {
       "has_gold_ingot": "2025-04-14 20:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-04-14 20:41:10 +0000"
     },
     "done": true
   },
@@ -2141,6 +2197,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_string": {
     "criteria": {
       "has_stick": "2025-04-14 17:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-04-14 20:41:10 +0000"
     },
     "done": true
   },
@@ -2606,6 +2668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-14 20:41:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-14 20:07:33 +0000"
@@ -2693,6 +2761,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/big_orange_glazed_jar": {
     "criteria": {
       "has_item": "2025-04-14 18:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-14 20:41:10 +0000"
     },
     "done": true
   },

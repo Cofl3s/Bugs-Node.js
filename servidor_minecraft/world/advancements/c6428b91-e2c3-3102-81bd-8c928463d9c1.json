@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2025-04-14 20:37:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_mushroom_stew": "2025-04-14 17:23:32 +0000"
@@ -1088,6 +1094,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/light_blue_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-04-14 20:37:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_iron": {
     "criteria": {
       "has_feather": "2025-04-14 17:30:50 +0000"
@@ -1649,12 +1661,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-04-14 17:51:39 +0000",
+      "minecraft:mountains": "2025-04-14 20:36:51 +0000",
       "minecraft:desert_hills": "2025-04-14 17:24:53 +0000",
       "minecraft:desert": "2025-04-14 17:13:53 +0000",
       "minecraft:birch_forest": "2025-04-14 17:51:55 +0000",
       "minecraft:savanna_plateau": "2025-04-14 20:18:41 +0000",
       "minecraft:river": "2025-04-14 17:31:17 +0000",
       "minecraft:birch_forest_hills": "2025-04-14 20:30:43 +0000",
+      "minecraft:wooded_mountains": "2025-04-14 20:37:05 +0000",
       "minecraft:wooded_hills": "2025-04-14 20:24:13 +0000",
       "minecraft:swamp": "2025-04-14 17:26:30 +0000",
       "minecraft:savanna": "2025-04-14 17:35:33 +0000",
@@ -1665,6 +1679,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 17:55:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/big_light_blue_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-04-14 20:37:52 +0000"
     },
     "done": true
   },
