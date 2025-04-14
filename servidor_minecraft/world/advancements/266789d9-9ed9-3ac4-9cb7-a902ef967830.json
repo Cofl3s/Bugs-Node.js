@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "mineminenomi:adventure/whats_kairoseki": {
+    "criteria": {
+      "unlock_kenbunshoku_aura": "2025-04-14 20:28:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-14 18:33:49 +0000"
@@ -268,6 +274,12 @@
       "has_sand": "2025-04-14 18:33:49 +0000"
     },
     "done": true
+  },
+  "mineminenomi:adventure/haki_master": {
+    "criteria": {
+      "unlock_kenbunshoku_aura": "2025-04-14 20:28:25 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
@@ -1111,6 +1123,7 @@
       "minecraft:birch_forest": "2025-04-14 19:27:58 +0000",
       "minecraft:savanna_plateau": "2025-04-14 19:52:58 +0000",
       "minecraft:river": "2025-04-14 18:07:11 +0000",
+      "minecraft:birch_forest_hills": "2025-04-14 20:30:04 +0000",
       "minecraft:wooded_hills": "2025-04-14 19:17:26 +0000",
       "minecraft:swamp": "2025-04-14 17:26:11 +0000",
       "minecraft:savanna": "2025-04-14 18:15:18 +0000",
