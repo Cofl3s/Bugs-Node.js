@@ -1679,3 +1679,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [14Apr2025 20:33:44.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> 1s
 [14Apr2025 20:44:28.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> zz
 [14Apr2025 20:45:02.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Superag_Games> zzz
+[14Apr2025 20:56:14.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Diamonds!]
+[14Apr2025 21:01:39.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported cofl3s to Superag_Games
+[14Apr2025 21:01:58.694] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games was kicked for floating too long!
+[14Apr2025 21:01:58.697] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Flying is not enabled on this server
+[14Apr2025 21:01:58.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[14Apr2025 21:01:58.720] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[14Apr2025 21:02:19.495] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3c7b3e9e
+[14Apr2025 21:02:19.500] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:47799] logged in with entity id 246664 at (593.7426782618915, 62.073264576653635, -1390.1804956402148)
+[14Apr2025 21:02:19.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[14Apr2025 21:02:38.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Superag_Games to cofl3s
