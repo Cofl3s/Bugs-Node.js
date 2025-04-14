@@ -1561,3 +1561,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [14Apr2025 17:43:55.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Made Superag_Games no longer a server operator]
 [14Apr2025 17:55:58.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Acquire Hardware]
 [14Apr2025 18:01:30.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Will it Come Back?]
+[14Apr2025 18:02:52.653] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3910c5a2
+[14Apr2025 18:02:52.662] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.194.228.212:57129] logged in with entity id 45303 at (47.48271339082859, 64.0, -280.30000001192093)
+[14Apr2025 18:02:52.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[14Apr2025 18:03:21.547] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5f2e7c19
+[14Apr2025 18:03:21.553] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu2401[/127.70.184.46:53021] logged in with entity id 46334 at (102.5, 68.0, -212.5)
+[14Apr2025 18:03:21.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 joined the game
+[14Apr2025 18:03:36.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Alex's Mobs]
+[14Apr2025 18:03:42.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Superag_Games a server operator
+[14Apr2025 18:03:50.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[14Apr2025 18:03:57.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[14Apr2025 18:04:09.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[14Apr2025 18:04:26.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[14Apr2025 18:04:35.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[14Apr2025 18:04:41.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Made Superag_Games no longer a server operator]
+[14Apr2025 18:05:51.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Monster Hunter]
+[14Apr2025 18:05:57.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> zzz
+[14Apr2025 18:05:57.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Sweet Dreams]
+[14Apr2025 18:08:24.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Hammer Time!]
