@@ -1766,6 +1766,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-04-14 17:23:59 +0000",
+      "cooked_beef": "2025-04-14 21:51:53 +0000",
       "beetroot_soup": "2025-04-14 17:24:34 +0000",
       "apple": "2025-04-14 21:34:02 +0000",
       "bread": "2025-04-14 18:06:11 +0000",
